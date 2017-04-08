@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2011/ern-main/33" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddex.net/xml/2011/ern-main/33 http://ddex.net/xml/2011/ern-main/33/ern-main.xsd" MessageSchemaVersionId="2011/ern-main/33" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>34667T98</MessageThreadId>
+    <MessageId>34667T98M51dad589172d3</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2010051102D</PartyId>
+      <PartyName>
+        <FullName>Believe SAS</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageRecipient>
+      <PartyId>PADPIDA00000000000</PartyId>
+      <PartyName>
+        <FullName>Test</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2013-07-08T17:06:49+02:00</MessageCreatedDateTime>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DEBL60605899</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">res352136</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>Ares352136</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Radio Edit</SubTitle>
+      </ReferenceTitle>
+      <LanguageOfPerformance>de</LanguageOfPerformance>
+      <Duration>PT0H4M2S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <LabelName>Music of one world</LabelName>
+        <PLine>
+          <Year>1998</Year>
+          <PLineText>One World Media</PLineText>
+        </PLine>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>Tres352136f47</TechnicalResourceDetailsReference>
+          <AudioCodecType UserDefinedValue="FLAC" Namespace="PADPIDA2010051102D">UserDefined</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">1411</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>60.000</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>47_0881969176230_01_001.flac</FileName>
+            <FilePath />
+            <HashSum>
+              <HashSum>1b58c77da2b379a6c1cfd44ac7b29a66</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DEBL60605900</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">res352137</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>Ares352137</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Andalucia Mix</SubTitle>
+      </ReferenceTitle>
+      <LanguageOfPerformance>de</LanguageOfPerformance>
+      <Duration>PT0H4M14S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <LabelName>Music of one world</LabelName>
+        <PLine>
+          <Year>1998</Year>
+          <PLineText>One World Media</PLineText>
+        </PLine>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>Tres352137f47</TechnicalResourceDetailsReference>
+          <AudioCodecType UserDefinedValue="FLAC" Namespace="PADPIDA2010051102D">UserDefined</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">1411</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>40.000</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>47_0881969176230_01_002.flac</FileName>
+            <FilePath />
+            <HashSum>
+              <HashSum>5c939184c304af2fa7196b33eb11f6e8</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DEBL60605901</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">res352138</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>Ares352138</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Album Version</SubTitle>
+      </ReferenceTitle>
+      <LanguageOfPerformance>de</LanguageOfPerformance>
+      <Duration>PT0H4M30S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <LabelName>Music of one world</LabelName>
+        <PLine>
+          <Year>1998</Year>
+          <PLineText>One World Media</PLineText>
+        </PLine>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>Tres352138f47</TechnicalResourceDetailsReference>
+          <AudioCodecType UserDefinedValue="FLAC" Namespace="PADPIDA2010051102D">UserDefined</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">1411</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>8.000</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>47_0881969176230_01_003.flac</FileName>
+            <FilePath />
+            <HashSum>
+              <HashSum>df8180ff92c5096bbf7ee40d8f7f95a3</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DEBL60605902</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">res352139</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>Ares352139</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Comfort-in-the-House-Mix</SubTitle>
+      </ReferenceTitle>
+      <LanguageOfPerformance>de</LanguageOfPerformance>
+      <Duration>PT0H6M22S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <LabelName>Music of one world</LabelName>
+        <PLine>
+          <Year>1998</Year>
+          <PLineText>One World Media</PLineText>
+        </PLine>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>Tres352139f47</TechnicalResourceDetailsReference>
+          <AudioCodecType UserDefinedValue="FLAC" Namespace="PADPIDA2010051102D">UserDefined</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">1411</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>60.000</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>47_0881969176230_01_004.flac</FileName>
+            <FilePath />
+            <HashSum>
+              <HashSum>226147a012fbc172e5dcd7b11829f6d1</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DEBL60605903</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">res352140</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>Ares352140</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Ritmo Electrico</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>de</LanguageOfPerformance>
+      <Duration>PT0H6M13S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <LabelName>Music of one world</LabelName>
+        <PLine>
+          <Year>1998</Year>
+          <PLineText>One World Media</PLineText>
+        </PLine>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>Tres352140f47</TechnicalResourceDetailsReference>
+          <AudioCodecType UserDefinedValue="FLAC" Namespace="PADPIDA2010051102D">UserDefined</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">1411</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>116.000</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>47_0881969176230_01_005.flac</FileName>
+            <FilePath />
+            <HashSum>
+              <HashSum>06a267d3bac524e0a81127f9daabe10f</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="PADPIDA2010051102D">cover34667</ProprietaryId>
+      </ImageId>
+      <ResourceReference>Acover34667</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>Tcover34667</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>1440</ImageHeight>
+          <ImageWidth>1440</ImageWidth>
+          <File>
+            <FileName>0881969176230.jpg</FileName>
+            <FilePath />
+            <HashSum>
+              <HashSum>bd2bb824f85a669b4671669b3b3fa03d</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <GRid>A10320WT000352136V</GRid>
+        <ISRC>DEBL60605899</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">352136</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R352136</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Radio Edit</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>Ares352136</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Tony Baez</DisplayArtistName>
+        <LabelName>Music of one world</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>Artist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>T.Baez</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>A.Leverenz</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D.R</FullName>
+          </PartyName>
+          <ArtistRole>MusicPublisher</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <GRid>A10320WA0000346674</GRid>
+            <ICPN IsEan="true">0881969176230</ICPN>
+            <CatalogNumber Namespace="The World Music Cafe GmbH">ow1001-x</CatalogNumber>
+            <ProprietaryId Namespace="PADPIDA2010051102D">34667</ProprietaryId>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText>Rhythm</TitleText>
+          </ReferenceTitle>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>World - Ethnic</GenreText>
+        </Genre>
+        <OriginalReleaseDate>1998-04-01</OriginalReleaseDate>
+        <OriginalDigitalReleaseDate>1998-04-01</OriginalDigitalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT0H4M2S</Duration>
+      <PLine>
+        <Year>1998</Year>
+        <PLineText>One World Media</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10320WT000352137T</GRid>
+        <ISRC>DEBL60605900</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">352137</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R352137</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Andalucia Mix</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>Ares352137</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Tony Baez</DisplayArtistName>
+        <LabelName>Music of one world</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>Artist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>T.Baez</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>A.Leverenz</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D.R</FullName>
+          </PartyName>
+          <ArtistRole>MusicPublisher</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <GRid>A10320WA0000346674</GRid>
+            <ICPN IsEan="true">0881969176230</ICPN>
+            <CatalogNumber Namespace="The World Music Cafe GmbH">ow1001-x</CatalogNumber>
+            <ProprietaryId Namespace="PADPIDA2010051102D">34667</ProprietaryId>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText>Rhythm</TitleText>
+          </ReferenceTitle>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>World - Ethnic</GenreText>
+        </Genre>
+        <OriginalReleaseDate>1998-04-01</OriginalReleaseDate>
+        <OriginalDigitalReleaseDate>1998-04-01</OriginalDigitalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT0H4M14S</Duration>
+      <PLine>
+        <Year>1998</Year>
+        <PLineText>One World Media</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10320WT000352138R</GRid>
+        <ISRC>DEBL60605901</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">352138</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R352138</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Album Version</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>Ares352138</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Tony Baez</DisplayArtistName>
+        <LabelName>Music of one world</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>Artist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>T.Baez</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>A.Leverenz</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D.R</FullName>
+          </PartyName>
+          <ArtistRole>MusicPublisher</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <GRid>A10320WA0000346674</GRid>
+            <ICPN IsEan="true">0881969176230</ICPN>
+            <CatalogNumber Namespace="The World Music Cafe GmbH">ow1001-x</CatalogNumber>
+            <ProprietaryId Namespace="PADPIDA2010051102D">34667</ProprietaryId>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText>Rhythm</TitleText>
+          </ReferenceTitle>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>World - Ethnic</GenreText>
+        </Genre>
+        <OriginalReleaseDate>1998-04-01</OriginalReleaseDate>
+        <OriginalDigitalReleaseDate>1998-04-01</OriginalDigitalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT0H4M30S</Duration>
+      <PLine>
+        <Year>1998</Year>
+        <PLineText>One World Media</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10320WT000352139P</GRid>
+        <ISRC>DEBL60605902</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">352139</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R352139</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+        <SubTitle>Comfort-in-the-House-Mix</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>Ares352139</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Tony Baez</DisplayArtistName>
+        <LabelName>Music of one world</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>Artist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>T.Baez</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>A.Leverenz</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Comfort Audio</FullName>
+          </PartyName>
+          <ArtistRole UserDefinedValue="Remixer" Namespace="PADPIDA2010051102D">UserDefined</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D.R</FullName>
+          </PartyName>
+          <ArtistRole>MusicPublisher</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <GRid>A10320WA0000346674</GRid>
+            <ICPN IsEan="true">0881969176230</ICPN>
+            <CatalogNumber Namespace="The World Music Cafe GmbH">ow1001-x</CatalogNumber>
+            <ProprietaryId Namespace="PADPIDA2010051102D">34667</ProprietaryId>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText>Rhythm</TitleText>
+          </ReferenceTitle>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>World - Ethnic</GenreText>
+        </Genre>
+        <OriginalReleaseDate>1998-04-01</OriginalReleaseDate>
+        <OriginalDigitalReleaseDate>1998-04-01</OriginalDigitalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT0H6M22S</Duration>
+      <PLine>
+        <Year>1998</Year>
+        <PLineText>One World Media</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10320WT0003521404</GRid>
+        <ISRC>DEBL60605903</ISRC>
+        <ProprietaryId Namespace="PADPIDA2010051102D">352140</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R352140</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Ritmo Electrico</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>Ares352140</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Tony Baez</DisplayArtistName>
+        <LabelName>Music of one world</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>Artist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>S.C.Kessler</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D.R</FullName>
+          </PartyName>
+          <ArtistRole>MusicPublisher</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <GRid>A10320WA0000346674</GRid>
+            <ICPN IsEan="true">0881969176230</ICPN>
+            <CatalogNumber Namespace="The World Music Cafe GmbH">ow1001-x</CatalogNumber>
+            <ProprietaryId Namespace="PADPIDA2010051102D">34667</ProprietaryId>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText>Rhythm</TitleText>
+          </ReferenceTitle>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>World - Ethnic</GenreText>
+        </Genre>
+        <OriginalReleaseDate>1998-04-01</OriginalReleaseDate>
+        <OriginalDigitalReleaseDate>1998-04-01</OriginalDigitalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT0H6M13S</Duration>
+      <PLine>
+        <Year>1998</Year>
+        <PLineText>One World Media</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10320WA0000346674</GRid>
+        <ICPN IsEan="true">0881969176230</ICPN>
+        <CatalogNumber Namespace="The World Music Cafe GmbH">ow1001-x</CatalogNumber>
+        <ProprietaryId Namespace="PADPIDA2010051102D">34667</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R34667</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Rhythm</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>Acover34667</ReleaseResourceReference>
+        <ReleaseResourceReference>Ares352136</ReleaseResourceReference>
+        <ReleaseResourceReference>Ares352137</ReleaseResourceReference>
+        <ReleaseResourceReference>Ares352138</ReleaseResourceReference>
+        <ReleaseResourceReference>Ares352139</ReleaseResourceReference>
+        <ReleaseResourceReference>Ares352140</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Tony Baez</DisplayArtistName>
+        <LabelName>Music of one world</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Tony Baez</FullName>
+          </PartyName>
+          <ArtistRole>Artist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Various Artists</FullName>
+          </PartyName>
+          <ArtistRole>Author</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ReleaseResourceReference>Ares352136</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>2</SequenceNumber>
+              <ReleaseResourceReference>Ares352137</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>3</SequenceNumber>
+              <ReleaseResourceReference>Ares352138</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>4</SequenceNumber>
+              <ReleaseResourceReference>Ares352139</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>5</SequenceNumber>
+              <ReleaseResourceReference>Ares352140</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>World - Ethnic</GenreText>
+        </Genre>
+        <OriginalReleaseDate>1998-04-01</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT0H25M21S</Duration>
+      <PLine>
+        <Year>1998</Year>
+        <PLineText>The World Music Cafe</PLineText>
+      </PLine>
+      <CLine>
+        <Year>1998</Year>
+        <CLineText>One World Media</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R34667</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">8</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R34667</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">8</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R34667</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">8</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R34667</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">8</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R34667</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>FreeOfChargeModel</CommercialModelType>
+          <TakeDown>true</TakeDown>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">8</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352136</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352136</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352136</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352136</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352136</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>FreeOfChargeModel</CommercialModelType>
+          <TakeDown>true</TakeDown>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352137</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352137</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352137</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352137</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352137</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>FreeOfChargeModel</CommercialModelType>
+          <TakeDown>true</TakeDown>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352138</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352138</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352138</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352138</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352138</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>FreeOfChargeModel</CommercialModelType>
+          <TakeDown>true</TakeDown>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352139</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352139</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352139</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352139</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352139</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>FreeOfChargeModel</CommercialModelType>
+          <TakeDown>true</TakeDown>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352140</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352140</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352140</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352140</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R352140</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>FreeOfChargeModel</CommercialModelType>
+          <TakeDown>true</TakeDown>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA00000000000">2</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>1998-04-01</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2013-07-08</EffectiveDate>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>

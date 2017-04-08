@@ -1,0 +1,744 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Album>
+  <Action>INSERT</Action>
+  <XMLAuthor>BELIEVE</XMLAuthor>
+  <XMLVersion>3.1</XMLVersion>
+  <Source>Believe</Source>
+  <UPC>3610150009005</UPC>
+  <ReferenceProducer></ReferenceProducer>
+  <Title>Sunfly Hits: Vol.  228</Title>
+  <Version></Version>
+  <Featuring></Featuring>
+  <Label>Sunfly Music Group</Label>
+  <Genre>Pop</Genre>
+  <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+  <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+  <PhysicalCancelationDate></PhysicalCancelationDate>
+  <DigitalCancelationDate></DigitalCancelationDate>
+  <Copyright>Sunfly Music Group</Copyright>
+  <ProducerLine>Sunfly Music Group</ProducerLine>
+  <NumberOfDiscs>1</NumberOfDiscs>
+  <NumberOfTracks>15</NumberOfTracks>
+  <Price>MIDLINE</Price>
+  <Cover>
+    <Filename>3610150009005.jpg</Filename>
+    <Width>1440</Width>
+    <Height>1440</Height>
+    <Type>JPEG</Type>
+    <Size>1093079</Size>
+    <MD5>84c6d1baf6ac9df08b9bef065567e9ed</MD5>
+  </Cover>
+  <Contributors>
+    <Performer>Sunfly Karaoke</Performer>
+    <Composer>Rogers,Stinson</Composer>
+    <Author>Rogers,Stinson</Author>
+  </Contributors>
+  <ForbiddenCountries />
+  <Tracks>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>1</TrackNumber>
+      <ISRC>FR-6V8-06-93131</ISRC>
+      <Title>Sometimes You Can't Make It On Your Own In the Style of U2</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>325</Duration>
+      <Genre>Pop - Rock</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Clayton, Evans, Hewson, Mullen</Composer>
+        <Author>Clayton, Evans, Hewson, Mullen</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_01.wma</Filename>
+          <Size>33344603</Size>
+          <isSplit>No</isSplit>
+          <MD5>a7b991f3fb97075a9c8a9b90cd8bf463</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>2</TrackNumber>
+      <ISRC>FR-6V8-06-93132</ISRC>
+      <Title>Only U In the Style of Ashanti</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>232</Duration>
+      <Genre>Pop - R&amp;B</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Douglas, Lorenzo, Aurelius</Composer>
+        <Author>Douglas, Lorenzo, Aurelius</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_02.wma</Filename>
+          <Size>24161125</Size>
+          <isSplit>No</isSplit>
+          <MD5>204a2c261341bd3e60d6b89868b06e14</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>3</TrackNumber>
+      <ISRC>FR-6V8-06-93133</ISRC>
+      <Title>Staring At the Sun In the Style of Rooster</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>238</Duration>
+      <Genre>Alternative - Indie Pop</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Robson, Atkinson, Potashnick</Composer>
+        <Author>Robson, Atkinson, Potashnick</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_03.wma</Filename>
+          <Size>27955047</Size>
+          <isSplit>No</isSplit>
+          <MD5>913d5a133b220ea89b07b102fe313ad2</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>4</TrackNumber>
+      <ISRC>FR-6V8-06-93134</ISRC>
+      <Title>Wrap My Words Around You In the Style of Daniel Bedingfield</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>200</Duration>
+      <Genre>Pop</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Bedingfield</Composer>
+        <Author>Bedingfield</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_04.wma</Filename>
+          <Size>21788135</Size>
+          <isSplit>No</isSplit>
+          <MD5>da7028d5c394ba4063f4a097459dc58b</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>5</TrackNumber>
+      <ISRC>FR-6V8-06-93135</ISRC>
+      <Title>Rich Girl In the Style of Gwen Stefani</Title>
+      <Version></Version>
+      <Featuring>In the Style of Eve</Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>258</Duration>
+      <Genre>Pop</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Elizondo, Young, Stefani, Dioguardi, Jeffers, Batson, Kreviazuk, Bock, Harnick</Composer>
+        <Author>Elizondo, Young, Stefani, Dioguardi, Jeffers, Batson, Kreviazuk, Bock, Harnick</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_05.wma</Filename>
+          <Size>29188479</Size>
+          <isSplit>No</isSplit>
+          <MD5>b79e43596fd5e0ba5f12013f96095fcb</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>6</TrackNumber>
+      <ISRC>FR-6V8-06-93136</ISRC>
+      <Title>Holiday In the Style of Green Day</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>256</Duration>
+      <Genre>Alternative - Indie Rock / Alternative Rock</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Armstrong, Pritchard, Wright</Composer>
+        <Author>Armstrong, Pritchard, Wright</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_06.wma</Filename>
+          <Size>27646777</Size>
+          <isSplit>No</isSplit>
+          <MD5>88d92f4bd8df101db20ee4b288f266db</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>7</TrackNumber>
+      <ISRC>FR-6V8-06-93137</ISRC>
+      <Title>Somebody Told Me In the Style of The Killers</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>217</Duration>
+      <Genre>Alternative - Indie Pop</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Flowers, Stoermer, Vannucci, Keuning</Composer>
+        <Author>Flowers, Stoermer, Vannucci, Keuning</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_07.wma</Filename>
+          <Size>23383517</Size>
+          <isSplit>No</isSplit>
+          <MD5>c370b996e8c7fde33c04506e919d6e79</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>8</TrackNumber>
+      <ISRC>FR-6V8-06-93138</ISRC>
+      <Title>Get Right In the Style of Jennifer Lopez</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>244</Duration>
+      <Genre>Pop</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Harrison, Raymond, Jackson, Brown</Composer>
+        <Author>Harrison, Raymond, Jackson, Brown</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_08.wma</Filename>
+          <Size>27552891</Size>
+          <isSplit>No</isSplit>
+          <MD5>6c19ff7288b3bdba7bbbab245ec0614c</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>9</TrackNumber>
+      <ISRC>FR-6V8-06-93139</ISRC>
+      <Title>Wires In the Style of Athlete</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>265</Duration>
+      <Genre>Alternative - Indie Pop</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Pott, Roberts, Wanstall, Willetts</Composer>
+        <Author>Pott, Roberts, Wanstall, Willetts</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_09.wma</Filename>
+          <Size>28987417</Size>
+          <isSplit>No</isSplit>
+          <MD5>df42d4b7f01e7a9d2c47f8e6c0bfc112</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>10</TrackNumber>
+      <ISRC>FR-6V8-06-93140</ISRC>
+      <Title>Don't In the Style of Shania Twain</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>258</Duration>
+      <Genre>Pop</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Lange, Lange</Composer>
+        <Author>Lange, Lange</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_10.wma</Filename>
+          <Size>23624985</Size>
+          <isSplit>No</isSplit>
+          <MD5>1c3cff9ccb5d2771e27b13f62e672bf7</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>11</TrackNumber>
+      <ISRC>FR-6V8-06-93141</ISRC>
+      <Title>In Public In the Style of Kelis</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>288</Duration>
+      <Genre>Pop - R&amp;B</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Rogers, Stinson</Composer>
+        <Author>Rogers, Stinson</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_11.wma</Filename>
+          <Size>25381295</Size>
+          <isSplit>No</isSplit>
+          <MD5>15317404174af7437f2431443f1fe763</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>12</TrackNumber>
+      <ISRC>FR-6V8-06-93142</ISRC>
+      <Title>Over and Over In the Style of Nelly</Title>
+      <Version></Version>
+      <Featuring>In the Style of Tim Mcgraw</Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>275</Duration>
+      <Genre>Pop - R&amp;B</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Bridges, Haynes, Hargrove</Composer>
+        <Author>Bridges, Haynes, Hargrove</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_12.wma</Filename>
+          <Size>26936339</Size>
+          <isSplit>No</isSplit>
+          <MD5>106e9ba664aa314e163458d06fe35b55</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>13</TrackNumber>
+      <ISRC>FR-6V8-06-93143</ISRC>
+      <Title>Like Toy Soldiers In the Style of Eminem</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>301</Duration>
+      <Genre>Pop - R&amp;B</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Mathers, Resto, Jay, Martika</Composer>
+        <Author>Mathers, Resto, Jay, Martika</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_13.wma</Filename>
+          <Size>26158891</Size>
+          <isSplit>No</isSplit>
+          <MD5>48f39d970368873c0d341e64939cbf1d</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>14</TrackNumber>
+      <ISRC>FR-6V8-06-93144</ISRC>
+      <Title>Karma In the Style of Alicia Keys</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>279</Duration>
+      <Genre>Pop - R&amp;B</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Augello, Brothers, Smith</Composer>
+        <Author>Augello, Brothers, Smith</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_14.wma</Filename>
+          <Size>28236737</Size>
+          <isSplit>No</isSplit>
+          <MD5>2f56577f178cdebdff842662862a5d35</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>15</TrackNumber>
+      <ISRC>FR-6V8-06-93145</ISRC>
+      <Title>Strings of Life (Stronger On My Own) In the Style of Soul Central</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>235</Duration>
+      <Genre>Dance</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-21</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Sunfly Music Group</Copyright>
+      <ProducerLine>Sunfly Music Group</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Sunfly Karaoke</Performer>
+        <Composer>Timothy, Williams, James, May</Composer>
+        <Author>Timothy, Williams, James, May</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150009005_1_15.wma</Filename>
+          <Size>26802119</Size>
+          <isSplit>No</isSplit>
+          <MD5>90e263c2d779d27f6bc9a91bb9617e44</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+  </Tracks>
+</Album>

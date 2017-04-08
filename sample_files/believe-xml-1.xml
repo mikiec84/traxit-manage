@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Album>
+  <Action>INSERT</Action>
+  <XMLAuthor>BELIEVE</XMLAuthor>
+  <XMLVersion>3.1</XMLVersion>
+  <Source>Believe</Source>
+  <UPC>3610150007643</UPC>
+  <ReferenceProducer></ReferenceProducer>
+  <Title>Hey Oh Let's Go</Title>
+  <Version></Version>
+  <Featuring></Featuring>
+  <Label>Net's Work Digital Records</Label>
+  <Genre>Dance - House - Tech / Minimal</Genre>
+  <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+  <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+  <PhysicalCancelationDate></PhysicalCancelationDate>
+  <DigitalCancelationDate></DigitalCancelationDate>
+  <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+  <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+  <NumberOfDiscs>1</NumberOfDiscs>
+  <NumberOfTracks>7</NumberOfTracks>
+  <Price>BUDGET</Price>
+  <Cover>
+    <Filename>3610150007643.jpg</Filename>
+    <Width>1440</Width>
+    <Height>1440</Height>
+    <Type>JPEG</Type>
+    <Size>2000779</Size>
+    <MD5>60fac62fc478699844f0f982c11772b0</MD5>
+  </Cover>
+  <Contributors>
+    <Performer>Doctor's Groovers</Performer>
+    <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+    <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+  </Contributors>
+  <ForbiddenCountries />
+  <Tracks>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>1</TrackNumber>
+      <ISRC>FR-6V8-06-91087</ISRC>
+      <Title>Hey Oh Let's Go</Title>
+      <Version>Swared &amp; Shelbylove Club Mix</Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>348</Duration>
+      <Genre>Dance - House - Tech / Minimal</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+      <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Doctor's Groovers</Performer>
+        <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+        <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+        <Remixer>Swared &amp; Shelbylove</Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150007643_1_01.wma</Filename>
+          <Size>45477133</Size>
+          <isSplit>No</isSplit>
+          <MD5>eb84c2e2a59cd23483a206bd97fdd6bd</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>2</TrackNumber>
+      <ISRC>FR-6V8-06-91088</ISRC>
+      <Title>Hey Oh Let's Go</Title>
+      <Version>Little Nancy Dirtymix</Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>357</Duration>
+      <Genre>Dance - House - Tech / Minimal</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+      <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Doctor's Groovers</Performer>
+        <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+        <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+        <Remixer>Nunzio Santagata</Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150007643_1_02.wma</Filename>
+          <Size>44458313</Size>
+          <isSplit>No</isSplit>
+          <MD5>6577b6dfc992fb0008aef2a4af0925d9</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>3</TrackNumber>
+      <ISRC>FR-6V8-06-91089</ISRC>
+      <Title>Hey Oh Let's Go</Title>
+      <Version>Emanuele Esposito Remix</Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>442</Duration>
+      <Genre>Dance - House - Tech / Minimal</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+      <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Doctor's Groovers</Performer>
+        <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+        <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+        <Remixer>Emanuele Esposito</Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150007643_1_03.wma</Filename>
+          <Size>50705845</Size>
+          <isSplit>No</isSplit>
+          <MD5>91425700a9e58716b5fc0545a7818556</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>4</TrackNumber>
+      <ISRC>FR-6V8-06-91090</ISRC>
+      <Title>Hey Oh Let's Go</Title>
+      <Version>Corvino Traxx Remix</Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>476</Duration>
+      <Genre>Dance - House - Tech / Minimal</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+      <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Doctor's Groovers</Performer>
+        <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+        <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+        <Remixer>Marco Corvino</Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150007643_1_04.wma</Filename>
+          <Size>60076775</Size>
+          <isSplit>No</isSplit>
+          <MD5>474331acb31b355879e47640242aab16</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>5</TrackNumber>
+      <ISRC>FR-6V8-06-91091</ISRC>
+      <Title>Hey Oh Let's Go</Title>
+      <Version>Doctor's Groovers Trashmix</Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>488</Duration>
+      <Genre>Dance - House - Tech / Minimal</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+      <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Doctor's Groovers</Performer>
+        <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+        <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150007643_1_05.wma</Filename>
+          <Size>60532627</Size>
+          <isSplit>No</isSplit>
+          <MD5>c9631fd3bf62252ab6420f1162670942</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>6</TrackNumber>
+      <ISRC>FR-6V8-06-91092</ISRC>
+      <Title>Hey Oh Let's Go</Title>
+      <Version>Swared &amp; Shelbylove Original Mix</Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>473</Duration>
+      <Genre>Dance - House - Tech / Minimal</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+      <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Doctor's Groovers</Performer>
+        <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+        <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+        <Remixer>Swared &amp; Shelbylove</Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150007643_1_06.wma</Filename>
+          <Size>61631863</Size>
+          <isSplit>No</isSplit>
+          <MD5>498a239b3542028702e8916156a86fce</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>7</TrackNumber>
+      <ISRC>FR-6V8-06-91093</ISRC>
+      <Title>Hey Oh Let's Go</Title>
+      <Version>Swared &amp; Shelbylove Sampler Mix</Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>EN</Language>
+      <MetadataLanguage>EN</MetadataLanguage>
+      <Duration>524</Duration>
+      <Genre>Dance - House - Tech / Minimal</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-06-20</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>2011 Net's Work &amp; Songs S.r.l.</Copyright>
+      <ProducerLine>2011 Net's Work &amp; Songs S.r.l.</ProducerLine>
+      <StartPreviewIndex>0</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>Doctor's Groovers</Performer>
+        <Composer>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Composer>
+        <Author>Pasquale Di Meglio, Ciro Palermo, Nunzio Santagata, Emanuele Esposito, Marco Corvino</Author>
+        <Remixer>Swared &amp; Shelbylove</Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3610150007643_1_07.wma</Filename>
+          <Size>70198493</Size>
+          <isSplit>No</isSplit>
+          <MD5>34be35ca03187d74d71b6d87ad9ab270</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+  </Tracks>
+</Album>

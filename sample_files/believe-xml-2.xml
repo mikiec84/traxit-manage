@@ -1,0 +1,1214 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Album>
+  <Action>INSERT</Action>
+  <XMLAuthor>BELIEVE</XMLAuthor>
+  <XMLVersion>3.1</XMLVersion>
+  <Source>Believe</Source>
+  <UPC>3661585878483</UPC>
+  <ReferenceProducer></ReferenceProducer>
+  <Title>Cartoons Music</Title>
+  <Version></Version>
+  <Featuring></Featuring>
+  <Label>Baccano edizioni musicali</Label>
+  <Genre>Childrens Music</Genre>
+  <PhysicalReleaseDate>2011-04-25</PhysicalReleaseDate>
+  <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+  <PhysicalCancelationDate></PhysicalCancelationDate>
+  <DigitalCancelationDate></DigitalCancelationDate>
+  <Copyright>Baccano</Copyright>
+  <ProducerLine>Baccano edizioni musicali</ProducerLine>
+  <NumberOfDiscs>1</NumberOfDiscs>
+  <NumberOfTracks>25</NumberOfTracks>
+  <Price>BACK CATALOG</Price>
+  <Cover>
+    <Filename>3661585878483.jpg</Filename>
+    <Width>1440</Width>
+    <Height>1440</Height>
+    <Type>JPEG</Type>
+    <Size>1292208</Size>
+    <MD5>f51ffc0901de7c24fe8d56d48061b227</MD5>
+  </Cover>
+  <Contributors>
+    <Performer>La Banda Dei Cartoni</Performer>
+    <Composer>Massimo dorati</Composer>
+    <Author></Author>
+  </Contributors>
+  <ForbiddenCountries />
+  <Tracks>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>1</TrackNumber>
+      <ISRC>FR-6V8-06-37278</ISRC>
+      <Title>I Cavalieri dello Zodiaco</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>191</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Massimo Dorati</Composer>
+        <Author>Massimo Dorati</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_01.wma</Filename>
+          <Size>22377963</Size>
+          <isSplit>No</isSplit>
+          <MD5>54867d9c57b10320a2879e5e8f7f5b9e</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>2</TrackNumber>
+      <ISRC>FR-6V8-06-37279</ISRC>
+      <Title>Insuperabili X-Men</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>263</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Massimo Dorati</Composer>
+        <Author>Massimo Dorati</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_02.wma</Filename>
+          <Size>29161687</Size>
+          <isSplit>No</isSplit>
+          <MD5>390f53436e7a89dc6e5d0fb8a1580902</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>3</TrackNumber>
+      <ISRC>FR-6V8-06-37280</ISRC>
+      <Title>Luna principessa argentata</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>227</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Massimo Dorati</Composer>
+        <Author>Massimo Dorati</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_03.wma</Filename>
+          <Size>22552381</Size>
+          <isSplit>No</isSplit>
+          <MD5>6af45541899203c5b17cf9922005c05c</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>4</TrackNumber>
+      <ISRC>FR-6V8-06-37281</ISRC>
+      <Title>Madagascar</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>202</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Massimo Dorati</Composer>
+        <Author>Massimo Dorati</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_04.wma</Filename>
+          <Size>26386401</Size>
+          <isSplit>No</isSplit>
+          <MD5>156b1322952a5ae6747e433b1e89efc8</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>5</TrackNumber>
+      <ISRC>FR-6V8-06-37282</ISRC>
+      <Title>Nel segno delle Winx</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>142</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Massimo Dorati</Composer>
+        <Author>Massimo Dorati</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_05.wma</Filename>
+          <Size>17752693</Size>
+          <isSplit>No</isSplit>
+          <MD5>823da695221dc00f027fde3f2e0c9afe</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>6</TrackNumber>
+      <ISRC>FR-6V8-06-37283</ISRC>
+      <Title>Ufo Robot</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>155</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Vincenzo Tempera</Composer>
+        <Author>Vincenzo Tempera</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_06.wma</Filename>
+          <Size>21761139</Size>
+          <isSplit>No</isSplit>
+          <MD5>57b0f1d82f7ef3863ef284f4bd7ec691</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>7</TrackNumber>
+      <ISRC>FR-6V8-06-37284</ISRC>
+      <Title>Ken il guerriero</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>207</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Vincenzo Tempera</Composer>
+        <Author>Vincenzo Tempera</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_07.wma</Filename>
+          <Size>27096935</Size>
+          <isSplit>No</isSplit>
+          <MD5>afcc7bdc3de00771a02fff725a7fba47</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>8</TrackNumber>
+      <ISRC>FR-6V8-06-37285</ISRC>
+      <Title>Capitan Harlock</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>172</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Vincenzo Tempera</Composer>
+        <Author>Vincenzo Tempera</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_08.wma</Filename>
+          <Size>23209055</Size>
+          <isSplit>No</isSplit>
+          <MD5>e2b8b2cf6b594e5e5e1671c76036836e</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>9</TrackNumber>
+      <ISRC>FR-6V8-06-37286</ISRC>
+      <Title>Jeeg Robot</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>122</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Vincenzo Tempera</Composer>
+        <Author>Vincenzo Tempera</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_09.wma</Filename>
+          <Size>16613103</Size>
+          <isSplit>No</isSplit>
+          <MD5>9569ab781fb56cd75e2e7475f912d277</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>10</TrackNumber>
+      <ISRC>FR-6V8-06-37287</ISRC>
+      <Title>Lady Oscar</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>186</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Alessandra Valeri Manera</Composer>
+        <Author>Ninny Carucci</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_10.wma</Filename>
+          <Size>22257285</Size>
+          <isSplit>No</isSplit>
+          <MD5>674d3494909bb8f2275b414ebe16f86c</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>11</TrackNumber>
+      <ISRC>FR-6V8-06-37288</ISRC>
+      <Title>Yu-Gi Ho</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>127</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Alessandra Valeri Manera</Composer>
+        <Author>Ninny Carucci</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_11.wma</Filename>
+          <Size>14267077</Size>
+          <isSplit>No</isSplit>
+          <MD5>3f4b17190a4f40f3504a981e877fc6ea</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>12</TrackNumber>
+      <ISRC>FR-6V8-06-37289</ISRC>
+      <Title>Tom &amp; Jerry</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>130</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Alessandra Valeri Manera</Composer>
+        <Author>Ninny Carucci</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_12.wma</Filename>
+          <Size>15366381</Size>
+          <isSplit>No</isSplit>
+          <MD5>b2716b037969c487068fc213795affa9</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>13</TrackNumber>
+      <ISRC>FR-6V8-06-37290</ISRC>
+      <Title>Teletubbies sempre con te</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>186</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Alessandra Valeri Manera</Composer>
+        <Author>Ninny Carucci</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_13.wma</Filename>
+          <Size>23530859</Size>
+          <isSplit>No</isSplit>
+          <MD5>190b863c3898afc5c3078cd4fa37ea8e</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>14</TrackNumber>
+      <ISRC>FR-6V8-06-37291</ISRC>
+      <Title>Spider Man</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>202</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Alessandra Valeri Manera</Composer>
+        <Author>Ninny Carucci</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_14.wma</Filename>
+          <Size>24295069</Size>
+          <isSplit>No</isSplit>
+          <MD5>80f44b02ae880577ffb2c2f5fbb8a294</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>15</TrackNumber>
+      <ISRC>FR-6V8-06-37292</ISRC>
+      <Title>Sampei</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>239</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Fabrizio Berlincioni</Composer>
+        <Author>Silvio Amato</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_15.wma</Filename>
+          <Size>25796681</Size>
+          <isSplit>No</isSplit>
+          <MD5>1b07149fdef466e900ad64ac7691ac4a</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>16</TrackNumber>
+      <ISRC>FR-6V8-06-37293</ISRC>
+      <Title>Power Rangers</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>246</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Fabrizio Berlincioni</Composer>
+        <Author>Silvio Amato</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_16.wma</Filename>
+          <Size>27807617</Size>
+          <isSplit>No</isSplit>
+          <MD5>3889f1b597f97c0ae3a0cb0bceeb21bc</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>17</TrackNumber>
+      <ISRC>FR-6V8-06-37294</ISRC>
+      <Title>Pochaontas</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>243</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Fabrizio Berlincioni</Composer>
+        <Author>Silvio Amato</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_17.wma</Filename>
+          <Size>25957577</Size>
+          <isSplit>No</isSplit>
+          <MD5>70c5ddab94b61c33cab702da624d6c93</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>18</TrackNumber>
+      <ISRC>FR-6V8-06-37295</ISRC>
+      <Title>Cicale</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>227</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Tony De Vita</Composer>
+        <Author>Alberto Testa</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_18.wma</Filename>
+          <Size>28678927</Size>
+          <isSplit>No</isSplit>
+          <MD5>bbdfc247939621b643b73f054da14174</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>19</TrackNumber>
+      <ISRC>FR-6V8-06-37296</ISRC>
+      <Title>Remi</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>187</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Francesca Barbatelli</Composer>
+        <Author>Francesca Barbatelli</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_19.wma</Filename>
+          <Size>23611295</Size>
+          <isSplit>No</isSplit>
+          <MD5>d4afc898d3756a16f3f9f4587c55be5f</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>20</TrackNumber>
+      <ISRC>FR-6V8-06-37297</ISRC>
+      <Title>Muppet Theme</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>113</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Francesca Barbatelli</Composer>
+        <Author>Francesca Barbatelli</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_20.wma</Filename>
+          <Size>14119555</Size>
+          <isSplit>No</isSplit>
+          <MD5>1756a0f06de0febd3b5b7131942326ee</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>21</TrackNumber>
+      <ISRC>FR-6V8-06-37298</ISRC>
+      <Title>Ben 10</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>124</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Francesca Barbatelli</Composer>
+        <Author>Francesca Barbatelli</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_21.wma</Filename>
+          <Size>11746733</Size>
+          <isSplit>No</isSplit>
+          <MD5>87ca1ea01e28ba78c93a695d582b45a8</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>22</TrackNumber>
+      <ISRC>FR-6V8-06-37299</ISRC>
+      <Title>Bim bum bam</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>203</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Salvatore Feldi</Composer>
+        <Author>Gaetano Arienzo</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_22.wma</Filename>
+          <Size>25179865</Size>
+          <isSplit>No</isSplit>
+          <MD5>77006d4ac590eb28103f616000c93076</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>23</TrackNumber>
+      <ISRC>FR-6V8-06-37300</ISRC>
+      <Title>Digimon</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>172</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Salvatore Feldi</Composer>
+        <Author>Gaetano Arienzo</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_23.wma</Filename>
+          <Size>18087967</Size>
+          <isSplit>No</isSplit>
+          <MD5>a664115c09e1939a238c9985e307beaf</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>24</TrackNumber>
+      <ISRC>FR-6V8-06-37301</ISRC>
+      <Title>Gundam</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>127</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Salvatore Feldi</Composer>
+        <Author>Gaetano Arienzo</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_24.wma</Filename>
+          <Size>13704025</Size>
+          <isSplit>No</isSplit>
+          <MD5>f0a0edda58ea48e1a55cc2fd00b8019f</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+    <Track>
+      <DiscNumber>1</DiscNumber>
+      <TrackNumber>25</TrackNumber>
+      <ISRC>FR-6V8-06-37302</ISRC>
+      <Title>Harry Porter la camera dei segreti</Title>
+      <Version></Version>
+      <Featuring></Featuring>
+      <ExplicitLyrics>No</ExplicitLyrics>
+      <Grid></Grid>
+      <Language>IT</Language>
+      <MetadataLanguage>IT</MetadataLanguage>
+      <Duration>141</Duration>
+      <Genre>Childrens Music</Genre>
+      <PhysicalReleaseDate>2011-06-24</PhysicalReleaseDate>
+      <DigitalReleaseDate>2011-04-27</DigitalReleaseDate>
+      <PhysicalCancelationDate></PhysicalCancelationDate>
+      <DigitalCancelationDate></DigitalCancelationDate>
+      <Copyright>Baccano</Copyright>
+      <ProducerLine>Baccano edizioni musicali</ProducerLine>
+      <StartPreviewIndex>30</StartPreviewIndex>
+      <Bundled>No</Bundled>
+      <Price>SINGLE2</Price>
+      <DownloadAvailable>1</DownloadAvailable>
+      <RingtoneAvailable>1</RingtoneAvailable>
+      <StreamingAvailable>1</StreamingAvailable>
+      <SubscriptionAvailable>1</SubscriptionAvailable>
+      <Contributors>
+        <Performer>La Banda Dei Cartoni</Performer>
+        <Composer>Salvatore Feldi</Composer>
+        <Author>Gaetano Arienzo</Author>
+        <Remixer></Remixer>
+      </Contributors>
+      <ContentType>audio</ContentType>
+      <AudioFiles>
+        <AudioFile>
+          <Codec>wml</Codec>
+          <Bitrate>320</Bitrate>
+          <Channels>2</Channels>
+          <SamplingRate>44100</SamplingRate>
+          <VBR>Yes</VBR>
+          <Filename>3661585878483_1_25.wma</Filename>
+          <Size>14200095</Size>
+          <isSplit>No</isSplit>
+          <MD5>989d391ac606e797dc3eb753d4311000</MD5>
+        </AudioFile>
+      </AudioFiles>
+    </Track>
+  </Tracks>
+</Album>
