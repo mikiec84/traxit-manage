@@ -138,6 +138,12 @@ def sample_files():
     return os.path.join(os.getcwdu(), 'sample_files')
 
 
+@pytest.fixture(scope='session', params=[u'samplé1.mp3', u'sample2.mp3',
+                                         u'sample.2.mp3', u'wavefile.wav'])
+def audio_all(request, sample_files):
+    return os.path.join(sample_files, request.param)
+
+
 @pytest.fixture(scope='session')
 def audio_creep_no_unicode(sample_files):
     return os.path.join(sample_files, u'sample2.mp3')
