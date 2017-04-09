@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312 http://ddex.net/xml/2010/ern-main/312/ern-main.xsd" MessageSchemaVersionId="2010/ern-main/312">
+<MessageHeader>
+<MessageThreadId>9238</MessageThreadId>
+<MessageId>71EB2CAE3F5B096D0FE646AFF37405EB</MessageId>
+<MessageSender>
+<PartyId>PADPIDA2011942601J</PartyId>
+<PartyName><FullName>Symphonic Distribution</FullName></PartyName>
+</MessageSender>
+<MessageRecipient>
+<PartyId>PADPIDA20140404055</PartyId>
+<PartyName>
+<FullName>Pandora Media, Inc</FullName>
+</PartyName>
+</MessageRecipient>
+<MessageCreatedDateTime>2014-11-17T23:12:53Z</MessageCreatedDateTime>
+</MessageHeader>
+<UpdateIndicator>OriginalMessage</UpdateIndicator>
+<ResourceList>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250940</ISRC></SoundRecordingId>
+<ResourceReference>A1</ResourceReference>
+<ReferenceTitle><TitleText>Love Beat</TitleText>
+<SubTitle>Miami Beat Mix</SubTitle></ReferenceTitle>
+<Duration>PT06M00S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Love Beat</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Love Beat</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Emory</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>Jella</FullName></PartyName><ArtistRole>FeaturedArtist</ArtistRole></DisplayArtist>
+<ResourceContributor><PartyName><FullName>Jella</FullName></PartyName><ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Featuring">UserDefined</ResourceContributorRole></ResourceContributor>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>Progressive House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_01_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>80820860f2cffa9d2d0dda35f864dde8</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250941</ISRC></SoundRecordingId>
+<ResourceReference>A2</ResourceReference>
+<ReferenceTitle><TitleText>I'll Be There For You</TitleText>
+<SubTitle>No Body Remix</SubTitle></ReferenceTitle>
+<Duration>PT05M52S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>I'll Be There For You</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>I'll Be There For You</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Dr. Kucho</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>No Body</FullName></PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+<ResourceContributor><PartyName><FullName>No Body</FullName></PartyName><ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Remixer">UserDefined</ResourceContributorRole></ResourceContributor>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>Electro House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_02_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>8a1fb61ea2e57a3d0db7da73a67427f1</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250942</ISRC></SoundRecordingId>
+<ResourceReference>A3</ResourceReference>
+<ReferenceTitle><TitleText>End Of Summer</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT06M14S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>End Of Summer</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>End Of Summer</TitleText></Title>
+<DisplayArtist><PartyName><FullName>HardNoise</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>Breakbeat</GenreText>
+<SubGenre>Breaks</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_03_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>df47f87d4db196614332db0f12fc07d2</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250943</ISRC></SoundRecordingId>
+<ResourceReference>A4</ResourceReference>
+<ReferenceTitle><TitleText>Island Of Love</TitleText>
+<SubTitle>Danny Costta Remix</SubTitle></ReferenceTitle>
+<Duration>PT06M37S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Island Of Love</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Island Of Love</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Grooveshakerz</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_04_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>7f17816baf3954703efaa1275dfc8622</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250944</ISRC></SoundRecordingId>
+<ResourceReference>A5</ResourceReference>
+<ReferenceTitle><TitleText>I Don't Care About You</TitleText>
+<SubTitle>HavocNDeed Remix</SubTitle></ReferenceTitle>
+<Duration>PT04M41S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>I Don't Care About You</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>I Don't Care About You</TitleText></Title>
+<DisplayArtist><PartyName><FullName>The Get Busy Committee</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>HavocNDeed</FullName></PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+<ResourceContributor><PartyName><FullName>HavocNDeed</FullName></PartyName><ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Remixer">UserDefined</ResourceContributorRole></ResourceContributor>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>Breakbeat</GenreText>
+<SubGenre>Breaks</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_05_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>de4276da44b612610794adc38fe20f71</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250945</ISRC></SoundRecordingId>
+<ResourceReference>A6</ResourceReference>
+<ReferenceTitle><TitleText>One Way Out</TitleText>
+<SubTitle>Moombahton Edit</SubTitle></ReferenceTitle>
+<Duration>PT06M57S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>One Way Out</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>One Way Out</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Cosmic Dreams</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>Indie</GenreText>
+<SubGenre>Indie Dance / Nu Disco</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_06_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>f7aeb26fb24b4f5ac260cd4e2b72ffe4</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250946</ISRC></SoundRecordingId>
+<ResourceReference>A7</ResourceReference>
+<ReferenceTitle><TitleText>Sunday Monday</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT06M33S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Sunday Monday</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Sunday Monday</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Conrado Martinez</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>Deep House</GenreText>
+<SubGenre>Deep House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T7</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_07_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>fa6aefdb3748bf341ce51ace650f9ada</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250947</ISRC></SoundRecordingId>
+<ResourceReference>A8</ResourceReference>
+<ReferenceTitle><TitleText>Just Believe</TitleText>
+<SubTitle>City Soul Project Mix</SubTitle></ReferenceTitle>
+<Duration>PT06M56S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Just Believe</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Just Believe</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Ciappy DJ</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T8</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_08_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>1faada1b9fb462baf539f3806385f4b4</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250948</ISRC></SoundRecordingId>
+<ResourceReference>A9</ResourceReference>
+<ReferenceTitle><TitleText>Progghy Loves The Fairy</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT04M01S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Progghy Loves The Fairy</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Progghy Loves The Fairy</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Progghy</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>Jo F.</FullName></PartyName><ArtistRole>Artist</ArtistRole></DisplayArtist>
+<ResourceContributor><PartyName><FullName>Jo F.</FullName></PartyName><ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Artist">UserDefined</ResourceContributorRole></ResourceContributor>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>Chill Out</GenreText>
+<SubGenre>Chill Out</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T9</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_09_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>f5b13acb831620fd1eca41169259e93e</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250949</ISRC></SoundRecordingId>
+<ResourceReference>A10</ResourceReference>
+<ReferenceTitle><TitleText>Sundrenched</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT04M17S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Sundrenched</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Sundrenched</TitleText></Title>
+<DisplayArtist><PartyName><FullName>DJ Haze</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T10</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_10_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>4db8fd5ddfc4cb8aef91f0fd22dad814</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250950</ISRC></SoundRecordingId>
+<ResourceReference>A11</ResourceReference>
+<ReferenceTitle><TitleText>Techbom</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT07M04S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Techbom</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Techbom</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Hector Pascual</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>Tech House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T11</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_11_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>ce95a8209b4020a68f41a2251a2628b7</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250951</ISRC></SoundRecordingId>
+<ResourceReference>A12</ResourceReference>
+<ReferenceTitle><TitleText>Chaps</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT07M33S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Chaps</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Chaps</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Faraz</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>Deep House</GenreText>
+<SubGenre>Deep House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T12</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_12_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>9b694c05c505dc5073eaa809fbd84a69</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250952</ISRC></SoundRecordingId>
+<ResourceReference>A13</ResourceReference>
+<ReferenceTitle><TitleText>Constellation</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT06M09S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Constellation</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Constellation</TitleText></Title>
+<DisplayArtist><PartyName><FullName>A.C</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>Guille Castro</FullName></PartyName><ArtistRole>Artist</ArtistRole></DisplayArtist>
+<ResourceContributor><PartyName><FullName>Guille Castro</FullName></PartyName><ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Artist">UserDefined</ResourceContributorRole></ResourceContributor>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T13</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_13_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>ba44f0a3af8280ed1541167e052c3d95</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<SoundRecording>
+<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+<SoundRecordingId>
+<ISRC>USLZJ1250953</ISRC></SoundRecordingId>
+<ResourceReference>A14</ResourceReference>
+<ReferenceTitle><TitleText>Perplex</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle>
+<Duration>PT04M52S</Duration>
+<SoundRecordingDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<Title TitleType="FormalTitle">
+<TitleText>Perplex</TitleText></Title>
+<Title TitleType="DisplayTitle">
+<TitleText>Perplex</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Cosmic Dreams</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<LabelName>Symphonic Distribution</LabelName>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<Genre>
+<GenreText>Dubstep </GenreText>
+<SubGenre>Dubstep</SubGenre>
+</Genre>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<TechnicalSoundRecordingDetails>
+<TechnicalResourceDetailsReference>T14</TechnicalResourceDetailsReference>
+<AudioCodecType UserDefinedValue="MP3" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+<BitRate UnitOfMeasure="kbps">320</BitRate>
+<NumberOfChannels>2</NumberOfChannels>
+<SamplingRate>44.1</SamplingRate>
+<BitsPerSample>16</BitsPerSample>
+<IsPreview>false</IsPreview>
+<File>
+<FileName>811868185118_1_14_320k.mp3</FileName>
+<FilePath>resources/</FilePath>
+<HashSum><HashSum>4894db14a262e8023cddeef53ecae33f</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType></HashSum></File>
+</TechnicalSoundRecordingDetails>
+</SoundRecordingDetailsByTerritory>
+</SoundRecording>
+<Image>
+<ImageType>FrontCoverImage</ImageType>
+<ImageId><ProprietaryId Namespace="DPID:PADPIDA2011942601J">811868185118.jpg</ProprietaryId></ImageId>
+<ResourceReference>A15</ResourceReference>
+<ImageDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<TechnicalImageDetails>
+<TechnicalResourceDetailsReference>T15</TechnicalResourceDetailsReference>
+<ImageCodecType>JPEG</ImageCodecType>
+<ImageHeight>600</ImageHeight>
+<ImageWidth>600</ImageWidth>
+<File>
+<FileName>811868185118.jpg</FileName>
+<FilePath>resources/</FilePath>
+<HashSum>
+<HashSum>ef4ad808b284900d3fd128f71da8f7ac</HashSum>
+<HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+</HashSum>
+</File></TechnicalImageDetails></ImageDetailsByTerritory>
+</Image>
+</ResourceList>
+<ReleaseList>
+<Release>
+<ReleaseId>
+<ICPN IsEan="false">811868185118</ICPN></ReleaseId>
+<ReleaseReference>R0</ReleaseReference>
+<ReferenceTitle><TitleText>Best Of Symphonic Distribution, Vol. 2</TitleText></ReferenceTitle>
+<ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A11</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A12</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A13</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A14</ReleaseResourceReference>
+<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A15</ReleaseResourceReference>
+</ReleaseResourceReferenceList>
+<ReleaseType>Album</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Best Of Symphonic Distribution, Vol. 2</TitleText></Title>
+<Title TitleType="DisplayTitle"><TitleText>Best Of Symphonic Distribution, Vol. 2</TitleText></Title>
+<Title TitleType="GroupingTitle"><TitleText>Best Of Symphonic Distribution, Vol. 2</TitleText></Title>
+<DisplayArtist><PartyName>
+<FullName>Various Artists</FullName></PartyName>
+<ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>Various Artists</FullName></PartyName><ArtistRole>Artist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<ResourceGroup><ResourceGroup><SequenceNumber>1</SequenceNumber>
+<ResourceGroupContentItem>
+<SequenceNumber>1</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>2</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>3</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>4</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>5</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>6</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>7</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>8</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>9</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>10</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>11</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A11</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>12</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A12</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>13</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A13</ReleaseResourceReference></ResourceGroupContentItem>
+<ResourceGroupContentItem>
+<SequenceNumber>14</SequenceNumber>
+<ResourceType>SoundRecording</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A14</ReleaseResourceReference></ResourceGroupContentItem>
+</ResourceGroup>
+<ResourceGroupContentItem>
+<ResourceType>Image</ResourceType>
+<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A15</ReleaseResourceReference></ResourceGroupContentItem>
+</ResourceGroup>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<OriginalReleaseDate>2012-04-18</OriginalReleaseDate>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+<CLine><Year>2012</Year><CLineText>2012 Symphonic Distribution</CLineText></CLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250940</ISRC></ReleaseId>
+<ReleaseReference>R1</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Love Beat</TitleText>
+<SubTitle>Miami Beat Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Love Beat</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Love Beat</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Emory</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>Jella</FullName></PartyName><ArtistRole>FeaturedArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>Progressive House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250941</ISRC></ReleaseId>
+<ReleaseReference>R2</ReleaseReference>
+<ReferenceTitle>
+<TitleText>I'll Be There For You</TitleText>
+<SubTitle>No Body Remix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>I'll Be There For You</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>I'll Be There For You</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Dr. Kucho</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>No Body</FullName></PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>Electro House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250942</ISRC></ReleaseId>
+<ReleaseReference>R3</ReleaseReference>
+<ReferenceTitle>
+<TitleText>End Of Summer</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>End Of Summer</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>End Of Summer</TitleText></Title>
+<DisplayArtist><PartyName><FullName>HardNoise</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>Breakbeat</GenreText>
+<SubGenre>Breaks</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250943</ISRC></ReleaseId>
+<ReleaseReference>R4</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Island Of Love</TitleText>
+<SubTitle>Danny Costta Remix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Island Of Love</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Island Of Love</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Grooveshakerz</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250944</ISRC></ReleaseId>
+<ReleaseReference>R5</ReleaseReference>
+<ReferenceTitle>
+<TitleText>I Don't Care About You</TitleText>
+<SubTitle>HavocNDeed Remix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>I Don't Care About You</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>I Don't Care About You</TitleText></Title>
+<DisplayArtist><PartyName><FullName>The Get Busy Committee</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>HavocNDeed</FullName></PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>Breakbeat</GenreText>
+<SubGenre>Breaks</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250945</ISRC></ReleaseId>
+<ReleaseReference>R6</ReleaseReference>
+<ReferenceTitle>
+<TitleText>One Way Out</TitleText>
+<SubTitle>Moombahton Edit</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>One Way Out</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>One Way Out</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Cosmic Dreams</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>Indie</GenreText>
+<SubGenre>Indie Dance / Nu Disco</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250946</ISRC></ReleaseId>
+<ReleaseReference>R7</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Sunday Monday</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Sunday Monday</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Sunday Monday</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Conrado Martinez</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>Deep House</GenreText>
+<SubGenre>Deep House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250947</ISRC></ReleaseId>
+<ReleaseReference>R8</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Just Believe</TitleText>
+<SubTitle>City Soul Project Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Just Believe</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Just Believe</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Ciappy DJ</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250948</ISRC></ReleaseId>
+<ReleaseReference>R9</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Progghy Loves The Fairy</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Progghy Loves The Fairy</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Progghy Loves The Fairy</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Progghy</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>Jo F.</FullName></PartyName><ArtistRole>Artist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>Chill Out</GenreText>
+<SubGenre>Chill Out</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250949</ISRC></ReleaseId>
+<ReleaseReference>R10</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Sundrenched</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Sundrenched</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Sundrenched</TitleText></Title>
+<DisplayArtist><PartyName><FullName>DJ Haze</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250950</ISRC></ReleaseId>
+<ReleaseReference>R11</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Techbom</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A11</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Techbom</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Techbom</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Hector Pascual</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>Tech House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250951</ISRC></ReleaseId>
+<ReleaseReference>R12</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Chaps</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A12</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Chaps</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Chaps</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Faraz</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>Deep House</GenreText>
+<SubGenre>Deep House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250952</ISRC></ReleaseId>
+<ReleaseReference>R13</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Constellation</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A13</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Constellation</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Constellation</TitleText></Title>
+<DisplayArtist><PartyName><FullName>A.C</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<DisplayArtist><PartyName><FullName>Guille Castro</FullName></PartyName><ArtistRole>Artist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>House</GenreText>
+<SubGenre>House</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+<Release>
+<ReleaseId>
+<ISRC>USLZJ1250953</ISRC></ReleaseId>
+<ReleaseReference>R14</ReleaseReference>
+<ReferenceTitle>
+<TitleText>Perplex</TitleText>
+<SubTitle>Original Mix</SubTitle></ReferenceTitle><ReleaseResourceReferenceList>
+<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A14</ReleaseResourceReference></ReleaseResourceReferenceList>
+<ReleaseType>TrackRelease</ReleaseType>
+<ReleaseDetailsByTerritory>
+<TerritoryCode>Worldwide</TerritoryCode>
+<LabelName>Symphonic Distribution</LabelName>
+<Title TitleType="FormalTitle"><TitleText>Perplex</TitleText><SubTitle></SubTitle></Title>
+<Title TitleType="DisplayTitle"><TitleText>Perplex</TitleText></Title>
+<DisplayArtist><PartyName><FullName>Cosmic Dreams</FullName></PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+<ParentalWarningType>NotExplicit</ParentalWarningType>
+<Genre>
+<GenreText>Dubstep </GenreText>
+<SubGenre>Dubstep</SubGenre>
+</Genre>
+<Keywords></Keywords>
+</ReleaseDetailsByTerritory>
+<PLine><Year>2012</Year><PLineText>2012 Symphonic Distribution</PLineText></PLine>
+</Release>
+</ReleaseList>
+<DealList>
+<ReleaseDeal>
+<DealReleaseReference>R0</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180100</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R1</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180001</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R2</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180002</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R3</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180003</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R4</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180004</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R5</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180005</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R6</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180006</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R7</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180007</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R8</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180008</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R9</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180009</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R10</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180010</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R11</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180011</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R12</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180012</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R13</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180013</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+<ReleaseDeal>
+<DealReleaseReference>R14</DealReleaseReference>
+<Deal>
+<DealReference>8118681851180014</DealReference>
+<DealTerms>
+<CommercialModelType>AsPerContract</CommercialModelType>
+<Usage>
+<UseType>AsPerContract</UseType>
+</Usage>
+<TerritoryCode>Worldwide</TerritoryCode>
+<DistributionChannel><PartyName><FullName>Pandora Media, Inc</FullName></PartyName><PartyId>PADPIDA20100621014</PartyId></DistributionChannel>
+<PriceInformation>
+<PriceRangeType Namespace="DPID:PADPIDA2011942601J">full</PriceRangeType>
+</PriceInformation>
+<ValidityPeriod><StartDate>2012-04-18</StartDate></ValidityPeriod>
+</DealTerms></Deal>
+<EffectiveDate>2014-11-17</EffectiveDate>
+</ReleaseDeal>
+</DealList>
+</ern:NewReleaseMessage>

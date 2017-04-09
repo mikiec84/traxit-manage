@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/32" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/32 http://ddex.net/xml/2010/ern-main/32/ern-main.xsd" MessageSchemaVersionId="2010/ernm/32" LanguageAndScriptCode="en">
+	<MessageHeader>
+		<MessageThreadId>12569</MessageThreadId>
+		<MessageId>FCE4F1FB1824526DDB19E8371F932011</MessageId>
+		<MessageSender>
+			<PartyId>PADPIDA2011942601J</PartyId>
+			<PartyName>
+				<FullName>Symphonic Distribution</FullName>
+			</PartyName>
+		</MessageSender>
+		<MessageRecipient>
+			<PartyId>PADPIDA2010121001I</PartyId>
+			<PartyName>
+				<FullName>24-7 Entertainment</FullName>
+			</PartyName>
+		</MessageRecipient>
+		<MessageCreatedDateTime>2012-08-16T23:48:45-05:00</MessageCreatedDateTime>
+	</MessageHeader>
+	<UpdateIndicator>OriginalMessage</UpdateIndicator>
+	<ResourceList>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>USLZJ1261242</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A1</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>Fatalidad</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<Duration>PT07M12S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>Fatalidad</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Fatalidad</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Artist">UserDefined</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>XOOD Records</LabelName>
+				<PLine>
+					<Year>2012</Year>
+					<PLineText>2012 XOOD Records</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<ParentalWarningType>Explicit</ParentalWarningType>
+				<TechnicalSoundRecordingDetails>
+					<TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					<AudioCodecType UserDefinedValue="FLAC" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+					<BitRate UnitOfMeasure="kbps">1411</BitRate>
+					<NumberOfChannels>2</NumberOfChannels>
+					<IsPreview>false</IsPreview>
+					<File>
+						<FileName>811868217604_1_01.flac</FileName>
+						<FilePath>resources/</FilePath>
+						<HashSum>
+							<HashSum>8349823ac605c4be8e832fcf38a7e594</HashSum>
+							<HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+						</HashSum>
+					</File>
+				</TechnicalSoundRecordingDetails>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>USLZJ1261243</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A2</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>Maniac B</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<Duration>PT06M38S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>Maniac B</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Maniac B</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Artist">UserDefined</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>XOOD Records</LabelName>
+				<PLine>
+					<Year>2012</Year>
+					<PLineText>2012 XOOD Records</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<ParentalWarningType>Explicit</ParentalWarningType>
+				<TechnicalSoundRecordingDetails>
+					<TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+					<AudioCodecType UserDefinedValue="FLAC" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+					<BitRate UnitOfMeasure="kbps">1411</BitRate>
+					<NumberOfChannels>2</NumberOfChannels>
+					<IsPreview>false</IsPreview>
+					<File>
+						<FileName>811868217604_1_02.flac</FileName>
+						<FilePath>resources/</FilePath>
+						<HashSum>
+							<HashSum>d854e28d14b927884cb6e04e3cc505d6</HashSum>
+							<HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+						</HashSum>
+					</File>
+				</TechnicalSoundRecordingDetails>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>USLZJ1261244</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A3</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>Maniac</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<Duration>PT08M03S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>Maniac</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Maniac</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme, Caraveo</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Artist">UserDefined</ResourceContributorRole>
+				</ResourceContributor>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>Caraveo</FullName>
+					</PartyName>
+					<ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Remixer">UserDefined</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>XOOD Records</LabelName>
+				<PLine>
+					<Year>2012</Year>
+					<PLineText>2012 XOOD Records</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<ParentalWarningType>Explicit</ParentalWarningType>
+				<TechnicalSoundRecordingDetails>
+					<TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+					<AudioCodecType UserDefinedValue="FLAC" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+					<BitRate UnitOfMeasure="kbps">1411</BitRate>
+					<NumberOfChannels>2</NumberOfChannels>
+					<IsPreview>false</IsPreview>
+					<File>
+						<FileName>811868217604_1_03.flac</FileName>
+						<FilePath>resources/</FilePath>
+						<HashSum>
+							<HashSum>d5afa77872177e7cf774a4522c1545a1</HashSum>
+							<HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+						</HashSum>
+					</File>
+				</TechnicalSoundRecordingDetails>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>USLZJ1261246</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A4</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>Maniac A</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<Duration>PT06M15S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>Maniac A</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Maniac A</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ResourceContributorRole Namespace="DPID:PADPIDA2011942601J" UserDefinedValue="Artist">UserDefined</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>XOOD Records</LabelName>
+				<PLine>
+					<Year>2012</Year>
+					<PLineText>2012 XOOD Records</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<ParentalWarningType>Explicit</ParentalWarningType>
+				<TechnicalSoundRecordingDetails>
+					<TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+					<AudioCodecType UserDefinedValue="FLAC" Namespace="DPID:PADPIDA2011942601J">UserDefined</AudioCodecType>
+					<BitRate UnitOfMeasure="kbps">1411</BitRate>
+					<NumberOfChannels>2</NumberOfChannels>
+					<IsPreview>false</IsPreview>
+					<File>
+						<FileName>811868217604_1_04.flac</FileName>
+						<FilePath>resources/</FilePath>
+						<HashSum>
+							<HashSum>f18a2b16e338b7cba8b34f1c8c7c574f</HashSum>
+							<HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+						</HashSum>
+					</File>
+				</TechnicalSoundRecordingDetails>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<Image>
+			<ImageType>FrontCoverImage</ImageType>
+			<ImageId>
+				<ProprietaryId Namespace="DPID:PADPIDA2011942601J">811868217604.jpg</ProprietaryId>
+			</ImageId>
+			<ResourceReference>A5</ResourceReference>
+			<ImageDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<TechnicalImageDetails>
+					<TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+					<ImageCodecType>JPEG</ImageCodecType>
+					<ImageHeight>600</ImageHeight>
+					<ImageWidth>600</ImageWidth>
+					<File>
+						<FileName>811868217604.jpg</FileName>
+						<FilePath>resources/</FilePath>
+						<HashSum>
+							<HashSum>ab7a4b89e674002ec682991bc8c6b5c6</HashSum>
+							<HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+						</HashSum>
+					</File>
+				</TechnicalImageDetails>
+			</ImageDetailsByTerritory>
+		</Image>
+	</ResourceList>
+	<ReleaseList>
+		<Release>
+			<ReleaseId>
+				<ICPN IsEan="false">811868217604</ICPN>
+			</ReleaseId>
+			<ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>Maniac</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A5</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>Album</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>Sicme</DisplayArtistName>
+				<LabelName>XOOD Records</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>Maniac</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Maniac</TitleText>
+				</Title>
+				<Title TitleType="GroupingTitle">
+					<TitleText>Maniac</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>Explicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+					<ResourceGroupContentItem>
+						<ResourceType>Image</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A5</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2012-09-18</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2012</Year>
+				<PLineText>2012 XOOD Records</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2012</Year>
+				<CLineText>2012 XOOD Records</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>USLZJ1261242</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R1</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>Fatalidad</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>Sicme</DisplayArtistName>
+				<LabelName>XOOD Records</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>Fatalidad</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Fatalidad</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceGroup>
+					<SequenceNumber>1</SequenceNumber>
+					<ResourceGroupContentItem>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceType>SoundRecording</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<Keywords/>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2012</Year>
+				<PLineText>2012 XOOD Records</PLineText>
+			</PLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>USLZJ1261243</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R2</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>Maniac B</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>Sicme</DisplayArtistName>
+				<LabelName>XOOD Records</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>Maniac B</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Maniac B</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceGroup>
+					<SequenceNumber>1</SequenceNumber>
+					<ResourceGroupContentItem>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceType>SoundRecording</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<Keywords/>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2012</Year>
+				<PLineText>2012 XOOD Records</PLineText>
+			</PLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>USLZJ1261244</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R3</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>Maniac</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>Sicme, Caraveo</DisplayArtistName>
+				<LabelName>XOOD Records</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>Maniac</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Maniac</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme, Caraveo</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceGroup>
+					<SequenceNumber>1</SequenceNumber>
+					<ResourceGroupContentItem>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceType>SoundRecording</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<Keywords/>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2012</Year>
+				<PLineText>2012 XOOD Records</PLineText>
+			</PLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>USLZJ1261246</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R4</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>Maniac A</TitleText>
+				<SubTitle/>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>Sicme</DisplayArtistName>
+				<LabelName>XOOD Records</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>Maniac A</TitleText>
+					<SubTitle/>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>Maniac A</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>Sicme</FullName>
+					</PartyName>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceGroup>
+					<SequenceNumber>1</SequenceNumber>
+					<ResourceGroupContentItem>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceType>SoundRecording</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Dance/Electronic</GenreText>
+				</Genre>
+				<Keywords/>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2012</Year>
+				<PLineText>2012 XOOD Records</PLineText>
+			</PLine>
+		</Release>
+	</ReleaseList>
+	<DealList>
+		<ReleaseDeal>
+			<DealReleaseReference>R0</DealReleaseReference>
+			<Deal>
+				<DealReference>8118682176040100</DealReference>
+				<DealTerms>
+					<CommercialModelType>AsPerContract</CommercialModelType>
+					<Usage>
+						<UseType>PermanentDownload</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<PriceInformation>
+						<WholesalePricePerUnit CurrencyCode="USD">2.8</WholesalePricePerUnit>
+					</PriceInformation>
+					<ValidityPeriod>
+						<StartDate>2012-08-16</StartDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<EffectiveDate>2012-08-16</EffectiveDate>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R1</DealReleaseReference>
+			<Deal>
+				<DealReference>8118682176040001</DealReference>
+				<DealTerms>
+					<CommercialModelType>AsPerContract</CommercialModelType>
+					<Usage>
+						<UseType>PermanentDownload</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<PriceInformation>
+						<WholesalePricePerUnit CurrencyCode="USD">0.7</WholesalePricePerUnit>
+					</PriceInformation>
+					<ValidityPeriod>
+						<StartDate>2012-08-16</StartDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<EffectiveDate>2012-08-16</EffectiveDate>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R2</DealReleaseReference>
+			<Deal>
+				<DealReference>8118682176040002</DealReference>
+				<DealTerms>
+					<CommercialModelType>AsPerContract</CommercialModelType>
+					<Usage>
+						<UseType>PermanentDownload</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<PriceInformation>
+						<WholesalePricePerUnit CurrencyCode="USD">0.7</WholesalePricePerUnit>
+					</PriceInformation>
+					<ValidityPeriod>
+						<StartDate>2012-08-16</StartDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<EffectiveDate>2012-08-16</EffectiveDate>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R3</DealReleaseReference>
+			<Deal>
+				<DealReference>8118682176040003</DealReference>
+				<DealTerms>
+					<CommercialModelType>AsPerContract</CommercialModelType>
+					<Usage>
+						<UseType>PermanentDownload</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<PriceInformation>
+						<WholesalePricePerUnit CurrencyCode="USD">0.7</WholesalePricePerUnit>
+					</PriceInformation>
+					<ValidityPeriod>
+						<StartDate>2012-08-16</StartDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<EffectiveDate>2012-08-16</EffectiveDate>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R4</DealReleaseReference>
+			<Deal>
+				<DealReference>8118682176040004</DealReference>
+				<DealTerms>
+					<CommercialModelType>AsPerContract</CommercialModelType>
+					<Usage>
+						<UseType>PermanentDownload</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<PriceInformation>
+						<WholesalePricePerUnit CurrencyCode="USD">0.7</WholesalePricePerUnit>
+					</PriceInformation>
+					<ValidityPeriod>
+						<StartDate>2012-08-16</StartDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<EffectiveDate>2012-08-16</EffectiveDate>
+		</ReleaseDeal>
+	</DealList>
+</ern:NewReleaseMessage>
