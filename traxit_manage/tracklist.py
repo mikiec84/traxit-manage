@@ -4,14 +4,14 @@ import os
 
 import click
 import pandas as pd
-from traxit_decode.decode import Decode
-from traxit_decode.decode import decode_wave
-from traxit_decode.decode import length_wave
 
 from traxit_manage.config import configure_database
 from traxit_manage.config import configure_fingerprinting
 from traxit_manage.config import configure_matching
 from traxit_manage.config import configure_tracklisting
+from traxit_manage.decode import Decode
+from traxit_manage.decode import decode_wave
+from traxit_manage.decode import length_wave
 from traxit_manage.utility import clean_list_of_files
 from traxit_manage.utility import dict_to_xml
 from traxit_manage.utility import file_path

@@ -92,6 +92,8 @@ def json_load(*args, **kwargs):
 
 
 def hash_fingerprint_params(params):
+    if params is None:
+        return 'Noneparams'
     m = hashlib.sha256()
     params_fingerprint = params.get('fingerprint', {})
     params_string = ''.join(sorted([str(value) for value in params_fingerprint.values()]))
@@ -107,8 +109,11 @@ def make_db_name(corpus,
                  params=None):
     """Construct a db name from the identification characteristics"""
     if params is None:
-        from traxit_algorithm import parameters
-        params = parameters.params
+        try:
+            from traxit_algorithm import parameters
+            params = parameters.params
+        except ImportError:
+            logger.error('You have to supply parameters yourself since traxit_algorithm is not installed')
     if algo_name is None:
         algo_name = 'traxittest'  # There is an index template associated to this prefix
     if nb is not None:
@@ -307,8 +312,8 @@ def decode_sub_dict(sub_dict):
 
 
 def get_tracklist_from_csv(corpus_path, csv_path):
-    from traxit_algorithm.track import Track
-    from traxit_algorithm.tracklisting import Tracklist
+    from traxit_manage.track import Track
+    from traxit_manage.tracklisting import Tracklist
 
     references = read_references(corpus_path)
     with open(csv_path, 'rU') as csv_file:
