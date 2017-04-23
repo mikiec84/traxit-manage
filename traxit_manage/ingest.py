@@ -4,10 +4,8 @@ import os
 import click
 import pandas as pd
 
-from traxit_manage.config import configure_database
+from traxit_manage import config
 from traxit_manage.decode import Decode
-
-from traxit_manage.config import configure_fingerprinting
 from traxit_manage.track import Track
 from traxit_manage.utility import clean_list_of_files
 from traxit_manage.utility import make_db_name
@@ -51,7 +49,7 @@ def ingest_references(corpus,
     list_of_files = [os.path.join(corpus_path, 'references', filename)
                      for filename in references]
 
-    db_instance = configure_database(db_class=db_class,
+    db_instance = config.configure_database(db_class=db_class,
                                      db_name=db_name)
     if erase:
         if not cli or query_yes_no(u'Are you sure you want to erase the database {db}?'
@@ -128,7 +126,7 @@ def ingest_files(list_of_files,
         a  list of the files after calling ``clean_list_of_files``
     """
     list_of_files = clean_list_of_files(list_of_files)
-    fingerprinting_instance = configure_fingerprinting()
+    fingerprinting_instance = config.configure_fingerprinting()
     if cli:
         with click.progressbar(list_of_files, label='Fingerprinting {0} files'.format(len(list_of_files))) as bar:
             fingerprint_paths = fingerprint_files(bar, fingerprinting_instance)

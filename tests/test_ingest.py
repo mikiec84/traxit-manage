@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 @pytest.fixture(scope='function')
 def mock_fingerprinting(mocker, fingerprints):
-    patcher = mocker.patch('traxit_manage.ingest.configure_fingerprinting')
+    patcher = mocker.patch('traxit_manage.config.configure_fingerprinting')
     patcher.return_value.how_much_audio.return_value = 0, 10
     patcher.return_value.to_index.return_value = 0
     patcher.return_value.get_fingerprint.return_value = fingerprints[0][1]
@@ -61,7 +61,7 @@ def test_ingest_references(cli, db_name,
 
     from traxit_manage.utility import make_db_name
 
-    mock_db_config.return_value.is_ingested_fingerprint.return_value = is_ingested
+    mock_db_config.is_ingested_fingerprint.return_value = is_ingested
     fingerprinting = mock_fingerprinting
     fingerprinting.return_value.get_fingerprint.return_value = pd.DataFrame({'key': [123, 456, 21]})
     mocker.patch('traxit_manage.ingest.Decode')
@@ -71,11 +71,6 @@ def test_ingest_references(cli, db_name,
                       db_name=db_name,
                       erase=False)
     if is_ingested:
-        assert (mock_db_config.return_value.insert_fingerprint.call_args_list == [])
+        assert (mock_db_config.insert_fingerprint.call_args_list == [])
     else:
-            assert (len(mock_db_config.return_value.insert_fingerprint.call_args_list) == 2)
-
-    if db_name is None:
-        assert (mock_db_config.call_args_list[0][0][0] == make_db_name(corpus_name, None))
-    else:
-        assert mock_db_config.call_args_list[0][0][0] == 'test'
+        assert (len(mock_db_config.insert_fingerprint.call_args_list) == 2)
