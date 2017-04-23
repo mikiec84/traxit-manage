@@ -51,14 +51,8 @@ def pytest_runtest_setup(item):
 
 
 @pytest.fixture(scope='function')
-def mock_extraction_db(mocker):
-    patcher = mocker.patch('traxit_databases.config.extraction_db', autoset=True)
-    return patcher
-
-
-@pytest.fixture(scope='function')
 def mock_db_config(mocker):
-    patcher = mocker.patch('traxit_databases.config.indexing_db', autoset=True)
+    patcher = mocker.patch('traxit_manage.config.configure_database').return_value
     return patcher
 
 

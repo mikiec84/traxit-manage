@@ -7,6 +7,7 @@ import pandas as pd
 from traxit_manage.config import configure_database
 from traxit_manage.decode import Decode
 
+from traxit_manage.config import configure_fingerprinting
 from traxit_manage.track import Track
 from traxit_manage.utility import clean_list_of_files
 from traxit_manage.utility import make_db_name
@@ -126,8 +127,6 @@ def ingest_files(list_of_files,
     Returns:
         a  list of the files after calling ``clean_list_of_files``
     """
-    from traxit_algorithm.config import configure_fingerprinting
-
     list_of_files = clean_list_of_files(list_of_files)
     fingerprinting_instance = configure_fingerprinting()
     if cli:
