@@ -4,7 +4,7 @@ import os
 from shutil import rmtree
 
 import click
-from traxit_algorithm.track import Track
+from traxit_manage.track import Track
 
 from traxit_manage.utility import path_corpus
 from traxit_manage.utility import query_yes_no

@@ -91,8 +91,7 @@ def test_generate_from_broadcast(create_corpus_broadcast_from_tracklist,
 
 
 @pytest.mark.slow
-def test_ingest_tracklist_functional(mocker, create_corpus_broadcast_from_tracklist, es_stub):
-    es_stub.data['fingerprint'] = []
+def test_ingest_tracklist_functional(mocker, create_corpus_broadcast_from_tracklist):
     from traxit_manage.bin import ingest
     from traxit_manage.bin import tracklist
     from traxit_manage.utility import read_references

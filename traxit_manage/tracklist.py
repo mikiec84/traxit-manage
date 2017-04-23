@@ -120,7 +120,7 @@ def store_tracklist(broadcast,
         detection_dict: dictionary of {audio file name (whithout extension): detection file name}
         detection_file_append: an extra string for the detection file name
         audio_file_path: path of the audio file
-        tl: traxit_algorithm.tracklisting.Tracklist instance
+        tl: traxit_manage.tracklisting.Tracklist instance
 
     Returns:
         detection_dict
@@ -148,7 +148,7 @@ def process_chunk(fingerprinting_instance, matching_instance, tracklisting_insta
     Args:
         fingerprinting_instance: instance of traxit_algorithm.fingerprinting.Fingerprinting
         matching_instance: instance of traxit_algorithm.matching.Matching
-        tracklisting_instance: instance of traxit_algorithm.tracklisting.Tracklisting
+        tracklisting_instance: instance of traxit_manage.tracklisting.Tracklisting
         filecache: a file path with extension .cache (which really raw wave)
         start (float): audio segment start time (in seconds)
         end (float): audio segment end time (in seconds)
@@ -243,7 +243,7 @@ def get_tracklist_file(broadcast, cli, corpus_path, filepath, fingerprinting_ins
         matching_instance: instance of traxit_algorithm.matching.Matching
         reset_cache: reset everything that is cached. Defaults to False
         reset_history_tracklist: reset only the cached tracklist result. Defaults to False
-        tracklisting_instance: instance of traxit_algorithm.tracklisting.Tracklisting
+        tracklisting_instance: instance of traxit_manage.tracklisting.Tracklisting
         introspect_trackids: list or None. An introspect.json file will be output in the broadcast folder.
         detection_file_append: an extra string for files produced during the process.
 

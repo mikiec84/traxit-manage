@@ -2,6 +2,9 @@ import logging
 import os
 import shutil
 
+import pandas as pd
+
+
 logger = logging.getLogger(__name__)
 
 class DbInMemory:
@@ -41,8 +44,6 @@ class DbInMemory:
             track_id: The id referencing the fingerprint.
             override: Boolean to replace a previously existing fingerprint.
         """
-        import pandas as pd
-
         if not isinstance(fp, pd.DataFrame):
             raise TypeError('fp must be a pandas dataframe')
 
@@ -142,6 +143,9 @@ class DbInMemory:
         Raises:
            ValueError if check_partial is True and a partial fingerprint was found
         """
+        if self._fps is None:
+            return False
+
         return (track_id in self._fps.track_id.values)
 
 
