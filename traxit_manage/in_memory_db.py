@@ -13,7 +13,16 @@ class DbInMemory:
         self.store_in = os.path.join('/tmp', db_name)
         if not os.path.exists(self.store_in):
             os.mkdir(self.store_in)
-        self._fps = None
+            self._fps = None
+        else:  # Load existing fingerprints
+            fp_files = [f for f in os.listdir(self.store_in) if os.path.isfile(os.path.join(self.store_in, f))]
+            fps = []
+            for fp_file in fp_files:
+                fp = pd.read_csv(os.path.join(self.store_in, fp_file))
+                fp['track_id'] = fp_file
+                fps.append(fp)
+            self._fps = pd.concat(fps)
+
 
     def __repr__(self):
         """Representation of the in memory DB"""
@@ -54,14 +63,15 @@ class DbInMemory:
 
         # Setting index_ref as a column equal to the index
         fp['index_ref'] = fp.index
+
+        fp.to_csv(os.path.join(self.store_in, track_id))
+
         fp['track_id'] = track_id
 
         if self._fps is None:
             self._fps = fp
         else:
             self._fps = pd.concat((self._fps, fp))
-
-        fp.to_csv(os.path.join(self.store_in, track_id))
 
     def query_keys(self, keys, track_ids):
         """Query keys from in memory db
@@ -99,6 +109,8 @@ class DbInMemory:
             list of str: Ordered list of track IDs to that correspond best to the queried keys. Ordered from most
                 relevant to less relevant.
         """
+        if self._fps is None:
+            return []
         query = self._fps[self._fps.key.isin(keys)]
         count = query.groupby('track_id')['track_id'].count()
         count.sort(ascending=False)

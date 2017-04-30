@@ -151,7 +151,8 @@ def configure_tracklisting(pipeline=None,
                     'class': SampleTracklisting,
                     'params': {
                         'processing_size': 10,
-                        'processing_hop': 7
+                        'processing_hop': 7,
+                        'vote_horizon': 6,
                     }
                 }
             }
