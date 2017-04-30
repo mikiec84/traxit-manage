@@ -26,7 +26,7 @@ from traxit_manage.utility import split_dir_file_ext
 logger = logging.getLogger(__name__)
 
 time_format = '%Y-%m-%d-%H-%M-%S'
-audio_cache_filetype = 'cache'
+audio_cache_filetype = 'cache.wav'
 
 
 def tracklist_helper(corpus,

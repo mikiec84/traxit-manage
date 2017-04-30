@@ -98,9 +98,16 @@ def configure_matching(pipeline=None,
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
         if pipeline is None:
-            raise ValueError('You have to supply your matching '
-                             'algorithm when traxit_algorithm is not '
-                             'installed.')
+            logger.warning('You have to supply your matching '
+                           'algorithm when traxit_algorithm is not '
+                           'installed. Choosing the default algorithm.')
+            from sample_algorithm import SampleMatching
+            pipeline = {
+                'matching': {
+                    'class': SampleMatching,
+                    'params': None
+                }
+            }
         if not isinstance(pipeline, dict):
             raise ValueError('The pipeline is not a dict and traxit_algorithm '
                              'is not installed')
@@ -135,9 +142,19 @@ def configure_tracklisting(pipeline=None,
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
         if pipeline is None:
-            raise ValueError('You have to supply your tracklisting '
-                             'algorithm when traxit_algorithm is not '
-                             'installed.')
+            logger.warning('You have to supply your tracklisting '
+                           'algorithm when traxit_algorithm is not '
+                           'installed.')
+            from sample_algorithm import SampleTracklisting
+            pipeline = {
+                'tracklisting': {
+                    'class': SampleTracklisting,
+                    'params': {
+                        'processing_size': 10,
+                        'processing_hop': 7
+                    }
+                }
+            }
         if not isinstance(pipeline, dict):
             raise ValueError('The pipeline is not a dict and traxit_algorithm '
                              'is not installed')
