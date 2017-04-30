@@ -71,7 +71,7 @@ class DbInMemory:
             track_ids (iterator of str): Iterator of track IDs to that correspond best to the queried keys.
 
         Results:
-            dict: {track_id: {key: [{"detuning": np.array, "index": np.array}, ...] }}
+            dict: {track_id: {key: [{"index": np.array}, ...] }}
         """
         result = {}
 
