@@ -52,9 +52,16 @@ def configure_fingerprinting(pipeline=None):
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
         if pipeline is None:
-            raise ValueError('You have to supply your fingerprinting '
-                             'algorithm when traxit_algorithm is not '
-                             'installed.')
+            logger.warning('You should supply your fingerprinting '
+                           'algorithm when traxit_algorithm is not '
+                           'installed. Choosing the default algorithm.')
+            from sample_algorithm import SampleFingerprinting
+            pipeline = {
+                'fingerprinting': {
+                    'class': SampleFingerprinting,
+                    'params': None
+                }
+            }
         if not isinstance(pipeline, dict):
             raise ValueError('The pipeline is not a dict and traxit_algorithm '
                              'is not installed')

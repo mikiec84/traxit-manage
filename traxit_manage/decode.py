@@ -36,9 +36,9 @@ if not traxit_decode:
                      **kwargs):
             self._data = None
             if mode != 'filewavsink':
-                raise ValueError('In memory read/writes are available only with the traxit_decode library')
-            if location_store is None:
-                raise ValueError('In memory read/writes are available only with the traxit_decode library')
+                raise ValueError('Other modes are available only with the traxit_decode library')
+            if not location.lower().endswith('wav') or (location_store is not None and not location_store.lower().endswith('wav')):
+                raise ValueError('Storing other formats than wav is available only with the traxit_decode library')
             if url:
                 raise ValueError('Reading from an URL is only available with the traxit_decode library')
             self.location = location
@@ -76,7 +76,8 @@ if not traxit_decode:
 
             self._data = resampled
 
-            wavfile.write(self.location_store, new_rate, resampled)
+            if self.location_store:
+                wavfile.write(self.location_store, new_rate, resampled)
 
 
         def get_data(self, t0=0, t1=None):
@@ -92,7 +93,11 @@ if not traxit_decode:
             Raises:
                 NotImplementedError: Only available in the traxit_decode library
             """
-            return self.get_raw_data(11025 * start, 11025 * end)
+            if t1 is None:
+                end = None
+            else:
+                end = 11025 * t1
+            return self.get_raw_data(11025 * t0, end)
 
         def get_raw_data(self, start=0, end=None):
             """Get data between two timestamps.
@@ -107,6 +112,8 @@ if not traxit_decode:
             Raises:
                 NotImplementedError: Only available in the traxit_decode library
             """
+            if end is None:
+                end = len(self._data)
             return self._data[start:end]
 
 

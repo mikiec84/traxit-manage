@@ -140,12 +140,12 @@ def audio_all(request, sample_files):
 
 @pytest.fixture(scope='session')
 def audio_creep_no_unicode(sample_files):
-    return os.path.join(sample_files, u'sample2.mp3')
+    return os.path.join(sample_files, u'sample2.wav')
 
 
 @pytest.fixture(scope='session')
 def audio_lady_unicode(sample_files):
-    return os.path.join(sample_files, u'samplé1.mp3')
+    return os.path.join(sample_files, u'samplé1.wav')
 
 
 _fp1 = [{'detuning': 20, 'key': 1}, {'detuning': 30, 'key': 2},
