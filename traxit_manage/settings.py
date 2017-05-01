@@ -23,7 +23,7 @@ AUDIO_REFERENCES_FOLDER = os.path.join(DATA_FOLDER, 'references')
 WAVE_FOLDER = os.path.join(DATA_FOLDER, 'wave')
 CSV_FOLDER = os.path.join(DATA_FOLDER, 'csv')
 
-LOG_FOLDER = os.environ.get('LOG_FOLDER', '/var/log/traxit_core')
+LOG_FOLDER = os.environ.get('LOG_FOLDER', os.path.join(os.path.expanduser('~'), 'traxit_logs_folder'))
 
 if not os.path.exists(DATA_FOLDER):
     mkdir_p(DATA_FOLDER)

@@ -113,7 +113,7 @@ def make_db_name(corpus,
             from traxit_algorithm import parameters
             params = parameters.params
         except ImportError:
-            logger.error('You have to supply parameters yourself since traxit_algorithm is not installed')
+            logger.warning('You have to supply parameters yourself since traxit_algorithm is not installed')
     if algo_name is None:
         algo_name = 'traxittest'  # There is an index template associated to this prefix
     if nb is not None:

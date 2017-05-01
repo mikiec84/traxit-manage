@@ -13,6 +13,7 @@ from click.testing import CliRunner
 from mock import mock_open as _mock_open
 import pytest
 from shortuuid import uuid
+
 from traxit_manage.utility import listdict2csv
 
 
@@ -78,15 +79,15 @@ def cwd(request, monkeypatch):
     shutil.rmtree(cwd)
 
 
-@pytest.fixture()
+@pytest.yield_fixture()
 def create_corpus_broadcast(audio_creep_no_unicode,
                             audio_lady_unicode,
                             cwd):
     from traxit_manage.bin import init_broadcast
     from traxit_manage.bin import init_corpus
     runner = CliRunner()
-    corpus_name = 'test_corpus'
-    broadcast_name = 'test_broadcast'
+    corpus_name = 'test_corpus' + uuid()
+    broadcast_name = 'test_broadcast' + uuid()
     os.mkdir(os.path.join(cwd, corpus_name))
     os.mkdir(os.path.join(cwd, corpus_name, broadcast_name))
     runner.invoke(init_corpus, [corpus_name])
@@ -99,7 +100,15 @@ def create_corpus_broadcast(audio_creep_no_unicode,
     dst = os.path.join(cwd, corpus_name, 'references')
     if os.path.exists(dst):
         shutil.copy(src, dst)
-    return cwd, corpus_name, broadcast_name
+    yield cwd, corpus_name, broadcast_name
+
+    from traxit_manage.config import configure_database
+    from traxit_manage.utility import make_db_name
+
+    db_name = make_db_name(corpus_name, broadcast_name)
+    db_instance = configure_database(db_class=None,
+                                     db_name=db_name)
+    db_instance.delete_all()
 
 
 @pytest.fixture()

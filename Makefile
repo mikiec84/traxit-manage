@@ -56,7 +56,7 @@ lint:
 	flake8 traxit_manage tests
 
 test:
-	PYTHONPATH=$(shell pwd) py.test tests --runslow -s
+	PYTHONPATH=$(shell pwd) py.test tests --runslow -s 
 
 coverage:
 	PYTHONPATH=$(shell pwd) py.test --cov=traxit_manage --cov-report html --cov-report xml --cov-config .coveragerc tests/ --runslow -s

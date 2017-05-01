@@ -21,7 +21,8 @@ class DbInMemory:
                 fp = pd.read_csv(os.path.join(self.store_in, fp_file))
                 fp['track_id'] = fp_file
                 fps.append(fp)
-            self._fps = pd.concat(fps)
+            if fps:
+                self._fps = pd.concat(fps)
 
 
     def __repr__(self):

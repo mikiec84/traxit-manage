@@ -127,7 +127,9 @@ def test_ingest_tracklist_functional(mocker, create_corpus_broadcast_from_trackl
 
     with open(detection_file) as f:
         content = f.read()
-        assert references['sample2.mp3'] in content
+        assert references['sample2.wav'] in content
+
+
 
 
 def test_delete_corpus(create_corpus_broadcast):
