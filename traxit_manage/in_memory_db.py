@@ -114,7 +114,7 @@ class DbInMemory:
             return []
         query = self._fps[self._fps.key.isin(keys)]
         count = query.groupby('track_id')['track_id'].count()
-        count.sort(ascending=False)
+        count.sort_values(ascending=False, inplace=True)
         return count.index[:size].tolist()
 
     def query_fingerprint(self, track_id=None, return_fields=None):
