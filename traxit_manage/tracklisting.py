@@ -38,7 +38,6 @@ class Tracklisting(object):
         self.history_matches = []
         self.history_tracklist = []
 
-    # TODO(Deprecate end argument)
     def get_tracklist(self,
                       end,
                       tracklist_id=None):
@@ -48,14 +47,14 @@ class Tracklisting(object):
           - detection or grountruth for a reporting compatible with PyAfe
           - web for a tracklist for the API
         """
-        logger.warning('Argument ``end`` (here set to {0}) of get_tracklist will be deprecated'
-                       .format(end))
         tracklist = self.compute_tracklist()
         assert (all((isinstance(tracklist_item['id'], basestring) or tracklist_item['id'] is None) and
                     'start' in tracklist_item and
                     'end' in tracklist_item
                     for tracklist_item in tracklist))
         tracklist = sorted(tracklist, key=lambda x: x['start'])
+        if tracklist:
+            tracklist[-1]['end'] = end
         tracklist_data = Tracklist(id=tracklist_id, tracklist=tracklist)
         logger.debug(u'Tracklist: {0}'.format(tracklist_data))
         return tracklist_data

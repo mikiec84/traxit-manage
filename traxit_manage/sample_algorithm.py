@@ -143,7 +143,7 @@ class SampleTracklisting(Tracklisting):
 
         """
         logger.info('Adding match {0} at {1}'.format(match, t1))
-        self.history_tracklist.append(match.to_dict())
+        self.history_tracklist.append((match.to_dict(), t1, t2))
 
     def __repr__(self):
         """String representation for the Tracklisting instance
@@ -166,7 +166,9 @@ class SampleTracklisting(Tracklisting):
                    'media_end': x (float)
                   }
         """
-        aggregation = pd.concat([pd.DataFrame.from_dict(match) for match in self.history_tracklist])
+        start_time = min(t1 for _, t1, _ in self.history_tracklist)
+        end_time = max(t2 for _, _, t2 in self.history_tracklist)
+        aggregation = pd.concat([pd.DataFrame.from_dict(match) for match, _, _ in self.history_tracklist])
         if not aggregation.empty:
             logger.info('Aggregation: {0}'.format(aggregation))
             best_matches = (aggregation
@@ -179,7 +181,7 @@ class SampleTracklisting(Tracklisting):
             best_match = best_matches.head(1)
             return [{
                 'id': best_match.index[0],
-                'start': 0,
-                'end': 200,
+                'start': start_time,
+                'end': end_time,
                 'score': best_match.values[0]
             }]
