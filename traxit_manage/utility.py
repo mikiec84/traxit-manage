@@ -113,7 +113,7 @@ def make_db_name(corpus,
             from traxit_algorithm import parameters
             params = parameters.params
         except ImportError:
-            logger.warning('You have to supply parameters yourself since traxit_algorithm is not installed')
+            logger.warning('You should supply parameters yourself since traxit_algorithm is not installed')
     if algo_name is None:
         algo_name = 'traxittest'  # There is an index template associated to this prefix
     if nb is not None:
@@ -536,5 +536,5 @@ def get_audio_files_not_cached(path, audio_filetypes, audio_cache_filetype):
     audio_files = get_audio_files(path, audio_filetypes)
     audio_files_not_cached = [audio_file
                               for audio_file in audio_files
-                              if audio_cache_filetype != split_dir_file_ext(audio_file)[2]]
+                              if not audio_file.endswith(audio_cache_filetype)]
     return audio_files_not_cached

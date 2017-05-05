@@ -157,15 +157,17 @@ def process_chunk(fingerprinting_instance, matching_instance, tracklisting_insta
     Returns:
         pd.DataFrame: Matches for this chunk
     """
-    logger.info(u'from {0} to {1}'.format(start, end))
     buf_start, buf_end = fingerprinting_instance.how_much_audio(start, end)
     audio, _ = decode_wave(filecache, buf_start, buf_end, 11025)
+    logger.info('Fingerprinting segment from {0} to {1}'.format(start, end))
     fp = fingerprinting_instance.get_fingerprint(audio, start, end)
+    logger.info('Matching segment from {0} to {1}'.format(start, end))
     match = matching_instance.get_matches(fp,
                                           start,
                                           end,
                                           introspect_trackids=introspect_trackids,
                                           query_keys_n_jobs=int(os.environ.get('QUERY_N_JOBS', 8)))
+    logger.info('Adding segment from {0} to {1} to tracklist'.format(start, end))
     tracklisting_instance.post_processing(match, start, end)
     return match
 

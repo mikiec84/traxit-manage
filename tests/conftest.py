@@ -157,10 +157,10 @@ def audio_lady_unicode(sample_files):
     return os.path.join(sample_files, u'samplé1.wav')
 
 
-_fp1 = [{'detuning': 20, 'key': 1}, {'detuning': 30, 'key': 2},
-        {'detuning': 40, 'key': 4}, {'detuning': 50, 'key': 1}]
-_fp2 = [{'detuning': 20, 'key': 1}, {'detuning': 30, 'key': 2},
-        {'detuning': 40, 'key': 3}, {'detuning': 50, 'key': 1}]
+_fp1 = [{'key': 1}, {'key': 2},
+        {'key': 4}, {'key': 1}]
+_fp2 = [{'key': 1}, {'key': 2},
+        {'key': 3}, {'key': 1}]
 
 
 @pytest.fixture(scope='session')
@@ -172,27 +172,27 @@ def fingerprints(request):
     return fingerprints
 
 
-fp1 = pd.DataFrame([{'detuning': 20, 'key': 1}, {'detuning': 30, 'key': 2},
-                    {'detuning': 40, 'key': 4}, {'detuning': 50, 'key': 1}])
-fp2 = pd.DataFrame([{'detuning': 20, 'key': 1}, {'detuning': 30, 'key': 2},
-                    {'detuning': 40, 'key': 3}, {'detuning': 50, 'key': 1}])
+fp1 = pd.DataFrame([{'key': 1}, {'key': 2},
+                    {'key': 4}, {'key': 1}])
+fp2 = pd.DataFrame([{'key': 1}, {'key': 2},
+                    {'key': 3}, {'key': 1}])
 
 
 # Only one key common to both
-fp3 = pd.DataFrame([{'detuning': 20, 'key': 1}, {'detuning': 30, 'key': 2},
-                    {'detuning': 40, 'key': 4}, {'detuning': 50, 'key': 1}])
-fp4 = pd.DataFrame([{'detuning': 20, 'key': 1}, {'detuning': 30, 'key': 5},
-                    {'detuning': 40, 'key': 3}, {'detuning': 50, 'key': 1}])
+fp3 = pd.DataFrame([{'key': 1}, {'key': 2},
+                    {'key': 4}, {'key': 1}])
+fp4 = pd.DataFrame([{'key': 1}, {'key': 5},
+                    {'key': 3}, {'key': 1}])
 
 
 @pytest.fixture(scope='session')
 def fingerprint_typeI():
     fingerprints = []
     track_id = uuid()
-    fingerprints.append((track_id, pd.DataFrame([{"key": "0" * 116, "detuning": 0},
-                        {"key": "1" * 116, "detuning": 0},
-                        {"key": "0" * 116, "detuning": 0},
-                        {"key": "1" * 116, "detuning": 0}])))
+    fingerprints.append((track_id, pd.DataFrame([{"key": "0" * 116},
+                        {"key": "1" * 116},
+                        {"key": "0" * 116},
+                        {"key": "1" * 116}])))
     return fingerprints
 
 

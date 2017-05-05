@@ -19,7 +19,8 @@ time_format = '%Y-%m-%dT%H:%M:%S'
 
 
 @click.group()
-def main():
+@click.option('--verbose', help='Output logs in stdout', default=False, required=False, is_flag=True)
+def main(verbose):
     click.echo(click.style(u'\n\n              T  R  A  X    I  T  \u00A9', fg='yellow'))
     click.echo("""
                 _________________
@@ -42,6 +43,11 @@ def main():
     logger.level = logging.INFO
 
     from traxit_manage import settings
+    if verbose:
+        file_handler = logging.StreamHandler()
+        file_handler.setFormatter(logging.Formatter(FORMAT))
+        logger.addHandler(file_handler)
+
     file_handler = RotatingFileHandler(os.path.join(settings.LOG_FOLDER, 'cli.log'),
                                        maxBytes=10000000,
                                        backupCount=3)

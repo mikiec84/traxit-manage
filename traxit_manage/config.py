@@ -98,7 +98,7 @@ def configure_matching(pipeline=None,
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
         if pipeline is None:
-            logger.warning('You have to supply your matching '
+            logger.warning('You should supply your matching '
                            'algorithm when traxit_algorithm is not '
                            'installed. Choosing the default algorithm.')
             from sample_algorithm import SampleMatching
@@ -142,7 +142,7 @@ def configure_tracklisting(pipeline=None,
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
         if pipeline is None:
-            logger.warning('You have to supply your tracklisting '
+            logger.warning('You should supply your tracklisting '
                            'algorithm when traxit_algorithm is not '
                            'installed.')
             from sample_algorithm import SampleTracklisting

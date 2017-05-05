@@ -2,6 +2,7 @@ import logging
 import os
 import shutil
 
+import numpy as np
 import pandas as pd
 
 
@@ -87,13 +88,11 @@ class DbInMemory:
         result = {}
 
         subfps = self._fps[self._fps.track_id.isin(track_ids)]
+        subfps = subfps.rename(columns={'index_ref': 'index'})
         for track_id, track_id_group in subfps.groupby('track_id'):
-            result.setdefault(track_id, {})
-            for key, group in track_id_group.groupby('key'):
-                result[track_id].setdefault(key, [])
-                group = group.drop(['track_id', 'key'], 1).rename(columns={'index_ref': 'index'})
+            group = track_id_group.groupby('key')['index'].apply(np.array).to_frame('index')
 
-                result[track_id][key] = group.to_dict('series')
+            result[track_id] = group.to_dict('index')
 
         return result
 

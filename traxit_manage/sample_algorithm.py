@@ -91,6 +91,7 @@ class SampleMatching(object):
             pandas.DataFrame: A dataframe with columns: 'track_id', 'score'
         """
         tracks_scored_unsorted = []
+
         track_ids = self.db.query_track_ids(fp.key, 10)
         all_queried_keys = self.db.query_keys(fp.key, track_ids)
 
