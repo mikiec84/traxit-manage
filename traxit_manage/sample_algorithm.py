@@ -90,6 +90,7 @@ class SampleMatching(object):
         Returns:
             pandas.DataFrame: A dataframe with columns: 'track_id', 'score'
         """
+        current_segment_indexes = np.arange(int(t1 * self.fingerprinting.sr / 50), int(np.ceil(t2 * self.fingerprinting.sr / 50)))
         tracks_scored_unsorted = []
 
         track_ids = self.db.query_track_ids(fp.key, 10)
@@ -97,8 +98,8 @@ class SampleMatching(object):
 
         for track_id in track_ids:
             queried_keys = all_queried_keys[track_id]
-
-            score = sum(len(value) for key, value in queried_keys.iteritems())
+            # Sum of common indexes
+            score = sum(len(np.intersect1d(current_segment_indexes, value['index'], assume_unique=True)) for key, value in queried_keys.iteritems())
 
             tracks_scored_unsorted.append({
                 'track_id': track_id,

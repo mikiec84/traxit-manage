@@ -87,7 +87,7 @@ class DbInMemory:
         """
         result = {}
 
-        subfps = self._fps[self._fps.track_id.isin(track_ids)]
+        subfps = self._fps[self._fps.track_id.isin(track_ids) & self._fps.key.isin(keys)]
         subfps = subfps.rename(columns={'index_ref': 'index'})
         for track_id, track_id_group in subfps.groupby('track_id'):
             group = track_id_group.groupby('key')['index'].apply(np.array).to_frame('index')

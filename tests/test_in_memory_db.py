@@ -41,7 +41,7 @@ def test_query_keys(fingerprints, traxit_db):
     track_id1, track_id2 = fingerprints[0][0], fingerprints[1][0]
 
     trackid_t_res_all = traxit_db.query_keys(
-        {1, 2, 3, 4},
+        {1, 2, 3},
         [track_id1, track_id2]
         )
 
@@ -50,7 +50,7 @@ def test_query_keys(fingerprints, traxit_db):
     assert trackid_t_res_all[track_id1][2]['index'].tolist() == [1]
     assert trackid_t_res_all[track_id2][2]['index'].tolist() == [1]
     assert trackid_t_res_all[track_id2][3]['index'].tolist() == [2]
-    assert trackid_t_res_all[track_id1][4]['index'].tolist() == [2]
+    assert 4 not in trackid_t_res_all[track_id1]
 
 def test_keys_count(traxit_db):
     fp1 = pd.DataFrame([{'key': i}
