@@ -3,11 +3,12 @@
 import logging
 
 from traxit_manage.in_memory_db import DbInMemory
+from traxit_manage.utility import _import
 
 logger = logging.getLogger(__name__)
 
 
-def configure_database(db_name, **kwargs):
+def configure_database(db_name, db_class=None, **kwargs):
     """Configure a database instance.
 
     If traxit_databases is installed it will defer the configuration to its
@@ -17,19 +18,21 @@ def configure_database(db_name, **kwargs):
         db_name: the name of the database to use
         db_class: can be a class, or a fully-qualified class name (as a
           string). Defaults to traxit_databases.config.indexing_db.
-        store_in: set a path to store the db if it's a local db.
-        timeout (float or None): timeout for database requests
     """
+
     try:
         from traxit_databases.config import configure_database
-        return configure_database(db_name, **kwargs)
+        return configure_database(db_name, db_class, **kwargs)
     except ImportError:
-        logger.warning('traxit_databases is not installed. '
-                       'Instanciating an in-memory database.')
-        return DbInMemory(db_name)
+        logger.warning('traxit_databases is not installed. ')
+        if db_class is None:
+            logger.warning('Instanciating an in-memory database.')
+            return DbInMemory(db_name)
+        else:
+            return _import(db_class)(db_name)
 
 
-def configure_fingerprinting(pipeline=None):
+def configure_fingerprinting(pipeline=None, fingerprinting_class_path=None):
     """Build an instance of a fingerprinting class for a given pipeline.
 
     Args:

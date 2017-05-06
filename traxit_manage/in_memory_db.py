@@ -172,4 +172,5 @@ class DbInMemory:
         """Deletes data but not the index. If you change the mapping then it will not update with a delete_all query."""
         if os.path.exists(self.store_in):
             shutil.rmtree(self.store_in)
+            os.mkdir(self.store_in)
         self._fps = None

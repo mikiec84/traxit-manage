@@ -12,6 +12,7 @@ import hashlib
 import json
 import logging
 import os
+import sys
 
 import numpy as np
 import xmltodict
@@ -100,6 +101,16 @@ def hash_fingerprint_params(params):
     m.update(base64.b64encode(params_string))
     hash_params = m.hexdigest()[:10]
     return hash_params
+
+
+def _import(class_path):
+    if os.getcwd() not in sys.path:
+        sys.path.append(os.getcwd())
+    components = class_path.split('.')
+    mod = __import__(components[0])
+    for comp in components[1:]:
+        mod = getattr(mod, comp)
+    return mod
 
 
 def make_db_name(corpus,

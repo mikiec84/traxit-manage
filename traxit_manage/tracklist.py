@@ -38,7 +38,12 @@ def tracklist_helper(corpus,
                      cli=False,
                      pipeline=None,
                      detection_file_append='',
-                     introspect_trackids=None):
+                     introspect_trackids=None,
+                     fingerprinting_class_path=None,
+                     matching_class_path=None,
+                     tracklisting_class_path=None,
+                     database_class_path=None,
+                     ):
     """Tracklists a file 'audio.*' in the broadcast. Gives an option to export the audio file of the detection.
 
     Args:

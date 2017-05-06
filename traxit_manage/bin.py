@@ -61,7 +61,9 @@ def main(verbose):
 @click.option('--dbname', help='Database name. If not set, the name of the database will be chosen according '
                                'to the algorithm name and parameters.')
 @click.option('--erase', is_flag=True, help='Erase the database.')
-def ingest(corpus, broadcast, dbname, erase):
+@click.option('--fingerprinting-class-path', help='Path to a fingerprinting class using dot notation. Example: myalgorithm.Fingerprinting', default=None, required=False)
+@click.option('--database-class-path', help='Path to a database class using dot notation. Example: myalgorithm.Database', default=None, required=False)
+def ingest(corpus, broadcast, dbname, erase, fingerprinting_class_path, database_class_path):
     """Creates a list of references that the broadcast will be compared to.
 
     By default the database wrapper used is DbElastic
@@ -71,13 +73,17 @@ def ingest(corpus, broadcast, dbname, erase):
                             broadcast=broadcast,
                             erase=erase,
                             db_name=dbname,
-                            cli=True)
+                            cli=True,
+                            fingerprinting_class_path=fingerprinting_class_path,
+                            database_class_path=database_class_path,
+                            )
     if res:
         list_of_files, list_of_valid = res
         click.echo(u"""
+--------------------------------------------------------
         Number of input files: {0}
         Number of input files that were valid: {1}
-        )
+--------------------------------------------------------
          """.format(len(list_of_files),
                     len(list_of_valid)))
 
@@ -91,8 +97,12 @@ def ingest(corpus, broadcast, dbname, erase):
 @click.option('--globaldb', is_flag=True, help='Use the corpus database.')
 @click.option('--pipeline', help='Pipeline name to use from traxit_algorithm.pipeline.')
 @click.option('--introspect-trackids', help='Comma-separated track_ids to introspect. Result will be stored in introspect.json')
+@click.option('--fingerprinting-class-path', help='Path to a fingerprinting class using dot notation. Example: myalgorithm.Fingerprinting', default=None, required=False)
+@click.option('--matching-class-path', help='Path to a matching class using dot notation. Example: myalgorithm.Matching', default=None, required=False)
+@click.option('--tracklisting-class-path', help='Path to a tracklisting class using dot notation. Example: myalgorithm.Tracklisting', default=None, required=False)
+@click.option('--database-class-path', help='Path to a database class using dot notation. Example: myalgorithm.Database', default=None, required=False)
 def tracklist(corpus, broadcast, dbname,
-              reset_cache, reset_history_tracklist, globaldb, pipeline, introspect_trackids):
+              reset_cache, reset_history_tracklist, globaldb, pipeline, introspect_trackids, fingerprinting_class_path, matching_class_path, tracklisting_class_path, database_class_path):
     """Tracklists according to a list of references that have been previously ingested
 
     By default the database wrapper used is DbElastic
@@ -110,7 +120,12 @@ def tracklist(corpus, broadcast, dbname,
                      cli=True,
                      pipeline=pipeline,
                      detection_file_append=detection_file_append,
-                     introspect_trackids=introspect_trackids)
+                     introspect_trackids=introspect_trackids,
+                     fingerprinting_class_path=fingerprinting_class_path,
+                     matching_class_path=matching_class_path,
+                     tracklisting_class_path=tracklisting_class_path,
+                     database_class_path=database_class_path,
+                     )
 
 
 @main.command()

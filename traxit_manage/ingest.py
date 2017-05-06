@@ -7,6 +7,7 @@ import pandas as pd
 from traxit_manage import config
 from traxit_manage.decode import Decode
 from traxit_manage.track import Track
+from traxit_manage.utility import _import
 from traxit_manage.utility import clean_list_of_files
 from traxit_manage.utility import make_db_name
 from traxit_manage.utility import path_corpus
@@ -22,9 +23,11 @@ time_format = '%Y-%m-%d-%H-%M-%S'
 def ingest_references(corpus,
                       broadcast=None,
                       erase=False,
-                      db_class=None,
                       db_name=None,
-                      cli=False):
+                      cli=False,
+                      fingerprinting_class_path=None,
+                      database_class_path=None,
+                      ):
     """Ingest the references defined in the broadcast or a whole corpus*
 
     To ingest references defined in a broadcast, run ``broadcast_references``.
@@ -34,10 +37,11 @@ def ingest_references(corpus,
         broadcast: the broadcast name. If None, ingest the whole corpus. Defaults to None
         erase (bool): If False, do not erase the database. If True, erase it, but ask for a manual confirmation
             if ``cli`` is True.
-        db_class: a db class inheriting from. Can be None
         db_name: the name to instanciate the db with. If None, the name is set to
             ``db_name = make_db_name(corpus, broadcast)``
         cli (bool): show CLI output (loading bar, etc.). Defaults to False.
+        fingerprinting_class_path (string): Path to a fingerprinting class using dot notation. Example: myalgorithm.Fingerprinting. Defaults to None.
+        database_class_path (string): Path to a database class using dot notation. Example: myalgorithm.Database. Defaults to None.
     """
     if db_name is None:
         db_name = make_db_name(corpus, broadcast)
@@ -49,8 +53,20 @@ def ingest_references(corpus,
     list_of_files = [os.path.join(corpus_path, 'references', filename)
                      for filename in references]
 
-    db_instance = config.configure_database(db_class=db_class,
-                                     db_name=db_name)
+    pipeline = None
+    if fingerprinting_class_path is not None:
+        pipeline = {
+            'fingerprinting': {
+                'class': _import(fingerprinting_class_path),
+                'params': None
+            }
+        }
+    fingerprinting_instance = config.configure_fingerprinting(
+        pipeline=pipeline
+        )
+    db_instance = config.configure_database(db_class=database_class_path,
+                                            db_name=db_name)
+
     if erase:
         if not cli or query_yes_no(u'Are you sure you want to erase the database {db}?'
                                    .format(db=db_instance)):
@@ -59,6 +75,7 @@ def ingest_references(corpus,
         print(u'Using database {db}'.format(db=db_instance))
     list_of_valid = ingest_files(list_of_files,
                                  db_instance,
+                                 fingerprinting_instance,
                                  cli=cli)
 
     return list_of_files, list_of_valid
@@ -114,6 +131,7 @@ def ingest_fingerprints(track_ids_fp_paths, db_instance):
 
 def ingest_files(list_of_files,
                  db_instance,
+                 fingerprinting_instance,
                  cli=False):
     """Returns the list of valid files to process, and the list of files whose ingestion went wrong.
 
@@ -126,7 +144,6 @@ def ingest_files(list_of_files,
         a  list of the files after calling ``clean_list_of_files``
     """
     list_of_files = clean_list_of_files(list_of_files)
-    fingerprinting_instance = config.configure_fingerprinting()
     if cli:
         with click.progressbar(list_of_files, label='Fingerprinting {0} files'.format(len(list_of_files))) as bar:
             fingerprint_paths = fingerprint_files(bar, fingerprinting_instance)
