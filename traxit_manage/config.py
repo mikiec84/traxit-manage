@@ -54,7 +54,7 @@ def configure_fingerprinting(pipeline=None, fingerprinting_class_path=None):
     except ImportError:
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
-        if pipeline is None:
+        if pipeline is None or pipeline.get('fingerprinting') is None:
             logger.warning('You should supply your fingerprinting '
                            'algorithm when traxit_algorithm is not '
                            'installed. Choosing the default algorithm.')
@@ -100,7 +100,7 @@ def configure_matching(pipeline=None,
     except ImportError:
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
-        if pipeline is None:
+        if pipeline is None or pipeline.get('matching') is None:
             logger.warning('You should supply your matching '
                            'algorithm when traxit_algorithm is not '
                            'installed. Choosing the default algorithm.')
@@ -144,7 +144,7 @@ def configure_tracklisting(pipeline=None,
     except ImportError:
         logger.warning('traxit_algorithm is not installed. '
                        'You will be missing some cool features.')
-        if pipeline is None:
+        if pipeline is None or pipeline.get('tracklisting') is None:
             logger.warning('You should supply your tracklisting '
                            'algorithm when traxit_algorithm is not '
                            'installed.')

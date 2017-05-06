@@ -12,6 +12,7 @@ from traxit_manage.config import configure_tracklisting
 from traxit_manage.decode import Decode
 from traxit_manage.decode import decode_wave
 from traxit_manage.decode import length_wave
+from traxit_manage.utility import _import
 from traxit_manage.utility import clean_list_of_files
 from traxit_manage.utility import dict_to_xml
 from traxit_manage.utility import file_path
@@ -61,6 +62,11 @@ def tracklist_helper(corpus,
             If pipeline is None (default) then we set the pipeline value to ``default``.
         detection_file_append: an extra string for files produced during the process. Defaults to an empty string
         introspect_trackids: list or None. An introspect.json file will be output in the broadcast folder.
+        fingerprinting_class_path (string): Path to a fingerprinting class using dot notation. Example: myalgorithm.Fingerprinting. Defaults to None.
+        matching_class_path (string): Path to a matching class using dot notation. Example: myalgorithm.Matching. Defaults to None.
+        tracklisting_class_path (string): Path to a tracklisting class using dot notation. Example: myalgorithm.Tracklisting. Defaults to None.
+        database_class_path (string): Path to a database class using dot notation. Example: myalgorithm.Database. Defaults to None.
+
 
     Returns:
         a dictionary of {audio file name (whithout extension): detection file name}
@@ -71,8 +77,35 @@ def tracklist_helper(corpus,
         else:
             db_name = make_db_name(corpus)
     db_instance = configure_database(db_name=db_name)
-
     print('Using database {db}'.format(db=db_instance))
+
+    if pipeline is None:
+        pipeline = {}
+        # TODO: Put this logic in bin instead and take a pipeline as input for this function
+        if fingerprinting_class_path is not None:
+            pipeline['fingerprinting'] = {
+                'class': _import(fingerprinting_class_path),
+                'params': None
+            }
+        if matching_class_path is not None:
+            pipeline['matching'] = {
+                'class': _import(matching_class_path),
+                'params': None
+            }
+        if tracklisting_class_path is not None:
+            pipeline['tracklisting'] = {
+                'class': _import(tracklisting_class_path),
+                'params': None
+            }
+        if pipeline == {}:
+            pipeline = None
+
+    fingerprinting_instance = configure_fingerprinting(pipeline=pipeline)
+    matching_instance = configure_matching(pipeline=pipeline,
+                                           fingerprinting_instance=fingerprinting_instance,
+                                           db_instance=db_instance)
+    tracklisting_instance = configure_tracklisting(pipeline=pipeline,
+                                                   db_instance=db_instance)
 
     corpus_path = path_corpus(corpus)
     references = read_references(corpus_path, broadcast)
@@ -88,12 +121,14 @@ def tracklist_helper(corpus,
 
     list_of_valid, tls = get_tracklist(audio_files,
                                        db_instance,
+                                       fingerprinting_instance,
+                                       matching_instance,
+                                       tracklisting_instance,
                                        corpus_path,
                                        broadcast,
                                        reset_cache=reset_cache,
                                        reset_history_tracklist=reset_history_tracklist,
                                        cli=cli,
-                                       pipeline=pipeline,
                                        introspect_trackids=introspect_trackids,
                                        detection_file_append=detection_file_append)
     ok = list(set(list_of_valid))
@@ -179,6 +214,9 @@ def process_chunk(fingerprinting_instance, matching_instance, tracklisting_insta
 
 def get_tracklist(list_of_files,
                   db_instance,
+                  fingerprinting_instance,
+                  matching_instance,
+                  tracklisting_instance,
                   corpus_path,
                   broadcast,
                   reset_cache=False,
@@ -192,6 +230,9 @@ def get_tracklist(list_of_files,
     Args:
         list_of_files: list of audio file paths
         db_instance: db_instance: the instance of the db with which to tracklist
+        fingerprinting_instance: instance of traxit_algorithm.fingerprinting.Fingerprinting
+        matching_instance: instance of traxit_algorithm.matching.Matching
+        tracklisting_instance: instance of traxit_manage.tracklisting.Tracklisting
         corpus_path: path of the corpus
         broadcast: name of the broadcast
         reset_cache: reset everything that is cached. Defaults to False
@@ -213,12 +254,6 @@ def get_tracklist(list_of_files,
 
     list_of_files = clean_list_of_files(list_of_files)
     tls = []
-    fingerprinting_instance = configure_fingerprinting(pipeline=pipeline)
-    matching_instance = configure_matching(pipeline=pipeline,
-                                           fingerprinting_instance=fingerprinting_instance,
-                                           db_instance=db_instance)
-    tracklisting_instance = configure_tracklisting(pipeline=pipeline,
-                                                   db_instance=db_instance)
     for filepath in list_of_files:
         tl = get_tracklist_file(broadcast,
                                 cli,
