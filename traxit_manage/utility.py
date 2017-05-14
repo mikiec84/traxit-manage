@@ -268,7 +268,7 @@ def listdict2csv(csv_file,
 
 def csv2listdict(csv_file, delimiter=';',
                  quoting=csv.QUOTE_MINIMAL,
-                 quotechar='|'):
+                 quotechar='"'):
     """Deserializes a CSV into a list of dictionaries. Columns of the CSV must be json-deserializable.
 
     Args:
