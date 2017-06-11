@@ -66,7 +66,7 @@ class DbInMemory:
         # Setting index_ref as a column equal to the index
         fp['index_ref'] = fp.index
 
-        fp.to_csv(os.path.join(self.store_in, track_id))
+        fp.to_csv(os.path.join(self.store_in, track_id), index=False)
 
         fp['track_id'] = track_id
 
