@@ -254,15 +254,25 @@ class Tracklist(object):
         }
         return tracklist_formated
 
-    def as_detection(self):
+    def as_detection(self, references={}):
         """Outputs a representation fitted for PyAFE detection files
 
+        Args:
+            references (dict): a mapping from filename to track ID
         """
         logger.info(u'Exporting tracklist as detection')
         tracklist_copy = copy.deepcopy(self.tracklist)
+        # Invert the references dictionary
+        references = dict((v, k) for k, v in references.iteritems())
+
         for tracklist_item in tracklist_copy:
-            tracklist_item.update({'eventDate': str(self.COMMON_DATETIME +
-                                                    datetime.timedelta(0, tracklist_item['start']))})
+            tracklist_item['eventDate'] = str(
+                self.COMMON_DATETIME
+                + datetime.timedelta(0, tracklist_item['start'])
+                )
+            if tracklist_item['id'] in references:
+                tracklist_item['filename'] = references[tracklist_item['id']]
+
         tracklist_formated = {
             'submission': {
                 'submissionId': self.id,

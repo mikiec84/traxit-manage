@@ -495,7 +495,7 @@ def read_references(corpus_path, broadcast=None):
         broadcast: broadcast to check
 
     Returns:
-        dict: Dictionary of filepath -> filename
+        dict: a mapping from filename to track ID
 
     Raises:
         No references file exists.

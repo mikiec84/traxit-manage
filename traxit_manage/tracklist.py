@@ -140,7 +140,8 @@ def tracklist_helper(corpus,
                                          detection_dict,
                                          detection_file_append,
                                          audio_file_path,
-                                         tl)
+                                         tl,
+                                         references)
     return detection_dict
 
 
@@ -150,7 +151,8 @@ def store_tracklist(broadcast,
                     detection_dict,
                     detection_file_append,
                     audio_file_path,
-                    tl):
+                    tl,
+                    references):
     """Store the tracklist of an audio file from a corpus / broadcast
 
     Args:
@@ -161,12 +163,13 @@ def store_tracklist(broadcast,
         detection_file_append: an extra string for the detection file name
         audio_file_path: path of the audio file
         tl: traxit_manage.tracklisting.Tracklist instance
+        references (dict): a mapping from filename to track ID
 
     Returns:
         detection_dict
     """
     _, file_name, _ = split_dir_file_ext(audio_file_path)
-    tl_dict = tl.as_detection()
+    tl_dict = tl.as_detection(references)
     xml = dict_to_xml(tl_dict)
     detection_filename = (u'{0}.xml'
                           .format('-'.join(filter(None, ['detection',
